@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "variant=base": {
+      "model": "plug:ancient_stone_base"
+    },
+    "variant=bricks": {
+      "model": "plug:ancient_stone_bricks"
+    },
+    "variant=sigil": {
+      "model": "plug:ancient_stone_sigil"
+    },
+    "variant=tiles": {
+      "model": "plug:ancient_stone_tiles"
+    },
+    "variant=embossed": {
+      "model": "plug:ancient_stone_embossed"
+    },
+    "variant=tile": {
+      "model": "plug:ancient_stone_tile"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "variant=cobble": {
+      "model": "plug:lightstone_cobble"
+    },
+    "variant=brick": {
+      "model": "plug:lightstone_brick"
+    },
+    "variant=bismuth": {
+      "model": "plug:lightstone_bismuth"
+    },
+    "variant=layer": {
+      "model": "plug:lightstone_layer"
+    },
+    "variant=neon": {
+      "model": "plug:lightstone_neon"
+    },
+    "variant=prism": {
+      "model": "plug:lightstone_prism"
+    },
+    "variant=spiral": {
+      "model": "plug:lightstone_spiral"
+    },
+    "variant=tile": {
+      "model": "plug:lightstone_tile"
+    },
+    "variant=raw": {
+      "model": "plug:lightstone_raw"
+    },
+    "variant=crack": {
+      "model": "plug:lightstone_crack"
+    }
+  }
+}

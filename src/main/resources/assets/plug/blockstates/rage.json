@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "variant=lucid": {
+      "model": "plug:rage_lucid"
+    },
+    "variant=base": {
+      "model": "plug:rage_base"
+    },
+    "variant=natural": {
+      "model": "plug:rage_natural"
+    },
+    "variant=pure": {
+      "model": "plug:rage_pure"
+    },
+    "variant=danger": {
+      "model": "plug:rage_danger"
+    },
+    "variant=compressed": {
+      "model": "plug:rage_compressed"
+    }
+  }
+}

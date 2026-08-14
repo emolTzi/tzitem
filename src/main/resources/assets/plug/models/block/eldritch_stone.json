@@ -1,0 +1,82 @@
+{
+    "textures":  {
+                     "all":  "plug:blocks/eldritch_stone",
+                     "particle":  "plug:blocks/eldritch_stone"
+                 },
+    "elements":  [
+                     {
+                         "from":  [
+                                      0,
+                                      0,
+                                      0
+                                  ],
+                         "to":  [
+                                    16,
+                                    16,
+                                    16
+                                ],
+                         "faces":  {
+                                       "down":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "cullface":  "down",
+                                                    "texture":  "#all"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             0,
+                                                             0,
+                                                             16,
+                                                             16
+                                                         ],
+                                                  "cullface":  "up",
+                                                  "texture":  "#all"
+                                              },
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "cullface":  "north",
+                                                     "texture":  "#all"
+                                                 },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "cullface":  "south",
+                                                     "texture":  "#all"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "cullface":  "west",
+                                                    "texture":  "#all"
+                                                },
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "cullface":  "east",
+                                                    "texture":  "#all"
+                                                }
+                                   }
+                     }
+                 ]
+}

@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="plug"
+version="5.4"
+displayName="The Plugin Mod"
+authors="KAMKEEL, Tzi"
+description='''Plugin-Mod ported to Minecraft 1.21.1 NeoForge. Naruto-style weapons, blocks, items, pills, coins and cards.'''
+logoFile=""
+
+[[dependencies.plug]]
+modId="neoforge"
+type="required"
+versionRange="[21,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.plug]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"

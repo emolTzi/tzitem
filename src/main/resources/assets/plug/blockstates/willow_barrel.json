@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "plug:barrel_willow"
+    },
+    "facing=down": {
+      "model": "plug:barrel_willow",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "plug:barrel_willow",
+      "x": 270
+    },
+    "facing=south": {
+      "model": "plug:barrel_willow",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "plug:barrel_willow",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east": {
+      "model": "plug:barrel_willow",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "meta=0": {
+      "model": "plug:concrete_burgundy"
+    },
+    "meta=1": {
+      "model": "plug:concrete_caramel"
+    },
+    "meta=2": {
+      "model": "plug:concrete_chocolate"
+    },
+    "meta=3": {
+      "model": "plug:concrete_denim"
+    },
+    "meta=4": {
+      "model": "plug:concrete_haze"
+    },
+    "meta=5": {
+      "model": "plug:concrete_mint"
+    },
+    "meta=6": {
+      "model": "plug:concrete_peanut"
+    },
+    "meta=7": {
+      "model": "plug:concrete_clover"
+    },
+    "meta=8": {
+      "model": "plug:concrete_pearl"
+    },
+    "meta=9": {
+      "model": "plug:concrete_mustard"
+    },
+    "meta=10": {
+      "model": "plug:concrete_sky_blue"
+    },
+    "meta=11": {
+      "model": "plug:concrete_periwinkle"
+    },
+    "meta=12": {
+      "model": "plug:concrete_peach"
+    },
+    "meta=13": {
+      "model": "plug:concrete_plum"
+    },
+    "meta=14": {
+      "model": "plug:concrete_avocado"
+    },
+    "meta=15": {
+      "model": "plug:concrete_red_brown"
+    }
+  }
+}

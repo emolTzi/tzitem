@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "variant=raw": {
+      "model": "plug:scorchia_raw"
+    },
+    "variant=polished": {
+      "model": "plug:scorchia_polished"
+    },
+    "variant=layer": {
+      "model": "plug:scorchia_layer"
+    },
+    "variant=brick": {
+      "model": "plug:scorchia_brick"
+    },
+    "variant=small_brick": {
+      "model": "plug:scorchia_small_brick"
+    },
+    "variant=cut": {
+      "model": "plug:scorchia_cut"
+    }
+  }
+}
