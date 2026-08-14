@@ -1,0 +1,7 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "plug:lightstone_raw"
+                          }
+                 }
+}

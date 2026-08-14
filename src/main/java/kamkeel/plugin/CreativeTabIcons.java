@@ -1,8 +1,8 @@
 package kamkeel.plugin;
 
+import kamkeel.plugin.Blocks.ModBlocks;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Items;
 
 /**
  * Tab icons and item population. Icons fall back to vanilla items until the
@@ -16,19 +16,25 @@ final class CreativeTabIcons {
     static ItemStack iconFor(String name) {
         switch (name) {
             case "playing_card_tab":
-                return new ItemStack(Items.STICK);
             case "misc":
-                return new ItemStack(Items.STICK);
             case "weapons":
-                return new ItemStack(Items.STICK);
+                return new ItemStack(net.minecraft.world.item.Items.STICK);
             case "blocks":
-                return new ItemStack(Items.ENCHANTING_TABLE);
+                if (ModBlocks.CHERRY_BARREL != null) {
+                    return new ItemStack(ModBlocks.CHERRY_BARREL.asItem());
+                }
+                return new ItemStack(net.minecraft.world.item.Items.ENCHANTING_TABLE);
             default:
-                return new ItemStack(Items.STICK);
+                return new ItemStack(net.minecraft.world.item.Items.STICK);
         }
     }
 
     static void populate(String name, CreativeModeTab.Output output) {
-        // Populated progressively as the registry is ported.
+        if ("blocks".equals(name)) {
+            for (var block : ModBlocks.ALL) {
+                output.accept(new ItemStack(block.asItem()));
+            }
+        }
+        // Other tabs are populated as the item registry is ported.
     }
 }

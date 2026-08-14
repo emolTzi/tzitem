@@ -23,6 +23,9 @@ public final class ModCreativeTabs {
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> BLOCKS_TAB = register("blocks",
             "itemGroup.plug.blocks");
 
+    /** No-op trigger to force class initialization (the static fields register the tabs). */
+    public static void init() {}
+
     private static DeferredHolder<CreativeModeTab, CreativeModeTab> register(String name, String titleKey) {
         return ModRegistries.CREATIVE_MODE_TABS.register(name, () -> CreativeModeTab.builder()
                 .title(Component.translatable(titleKey))

@@ -1,0 +1,7 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "plug:scorchia_polished"
+                          }
+                 }
+}

@@ -1,0 +1,7 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "plug:limestone_raw"
+                          }
+                 }
+}

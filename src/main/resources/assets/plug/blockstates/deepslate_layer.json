@@ -1,0 +1,7 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "plug:deepslate_layer"
+                          }
+                 }
+}
