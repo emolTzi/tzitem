@@ -11,6 +11,7 @@ import kamkeel.plugin.Enum.Blocks.EnumRage;
 import kamkeel.plugin.Enum.Blocks.IBlockEnum;
 import kamkeel.plugin.ModRegistries;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.ConcretePowderBlock;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.MapColor;
@@ -46,6 +47,17 @@ public final class ModBlocks {
             .mapColor(MapColor.STONE).strength(0.3F).sound(SoundType.GLASS)
             .noOcclusion().lightLevel(s -> 15);
 
+    private static final BlockBehaviour.Properties CONCRETE = BlockBehaviour.Properties.of()
+            .mapColor(MapColor.STONE).strength(1.8F).sound(SoundType.STONE)
+            .requiresCorrectToolForDrops();
+
+    private static final BlockBehaviour.Properties CONCRETE_POWDER = BlockBehaviour.Properties.of()
+            .mapColor(MapColor.SAND).strength(0.5F).sound(SoundType.SAND);
+
+    private static final BlockBehaviour.Properties ENERGY = BlockBehaviour.Properties.of()
+            .mapColor(MapColor.STONE).strength(1.8F).sound(SoundType.STONE)
+            .requiresCorrectToolForDrops();
+
     // ---- Enum-variant blocks ----
     public static final List<DeferredBlock<Block>> DARK = enumBlocks("dark", EnumDark.class, STONE);
     public static final List<DeferredBlock<Block>> MIDNIGHT = enumBlocks("midnight", EnumMidnight.class, STONE);
@@ -69,6 +81,13 @@ public final class ModBlocks {
     public static final List<DeferredBlock<Block>> BARRELS = new ArrayList<>();
     public static DeferredBlock<Block> CHERRY_BARREL;
 
+    // ---- Color blocks (concrete / powder / energy) + cave vines ----
+    public static final List<DeferredBlock<Block>> CONCRETE_BLOCKS = new ArrayList<>();
+    public static final List<DeferredBlock<Block>> CONCRETE_POWDER_BLOCKS = new ArrayList<>();
+    public static final List<DeferredBlock<Block>> ENERGY_BLOCKS = new ArrayList<>();
+    public static DeferredBlock<Block> CAVE_VINES;
+    public static DeferredBlock<Block> CAVE_VINES_GROWING;
+
     public static void register() {
         String[] woods = {"oak", "spruce", "birch", "jungle", "dark_oak", "acacia", "warped", "crimson", "cherry"};
         for (String wood : woods) {
@@ -79,6 +98,48 @@ public final class ModBlocks {
                 CHERRY_BARREL = barrel;
             }
         }
+        registerColorBlocks();
+    }
+
+    /** Concrete/powder (28 colors each), energy (16 colors), and cave vines. */
+    private static void registerColorBlocks() {
+        String[] concreteColors = {"burgundy", "caramel", "chocolate", "denim", "haze", "mint",
+                "peanut", "clover", "pearl", "mustard", "sky_blue", "periwinkle", "peach", "plum",
+                "avocado", "red_brown", "blood", "seafoam", "mauve", "seaweed", "carbon", "indigo",
+                "khaki", "ash", "ivy", "ivory", "camel", "salmon"};
+        for (String color : concreteColors) {
+            DeferredBlock<Block> concrete = ModRegistries.BLOCKS.register("concrete_" + color,
+                    () -> new Block(CONCRETE));
+            DeferredBlock<Block> powder = ModRegistries.BLOCKS.register("concrete_powder_" + color,
+                    () -> new ConcretePowderBlock(concrete.get(), CONCRETE_POWDER));
+            CONCRETE_BLOCKS.add(concrete);
+            CONCRETE_POWDER_BLOCKS.add(powder);
+            ALL.add(concrete);
+            ALL.add(powder);
+        }
+
+        String[] energyColors = {"blood_red", "baby_blue", "dark_blue", "deep_blue", "green",
+                "hot_pink", "lemon", "light_blue", "lime", "magenta", "orange", "purple", "red",
+                "teal", "turquoise", "yellow"};
+        int[] lightLevels = {15, 7, 10, 6, 10, 5, 11, 7, 12, 10, 9, 5, 3, 3, 5, 0};
+        for (int i = 0; i < energyColors.length; i++) {
+            final int light = lightLevels[i];
+            DeferredBlock<Block> energy = ModRegistries.BLOCKS.register("energy_block_" + energyColors[i],
+                    () -> new Block(ENERGY.lightLevel(s -> light)));
+            ENERGY_BLOCKS.add(energy);
+            ALL.add(energy);
+        }
+
+        CAVE_VINES = ModRegistries.BLOCKS.register("cave_vines",
+                () -> new CaveVinesBlock(BlockBehaviour.Properties.of().mapColor(MapColor.PLANT)
+                        .strength(0.2F).sound(SoundType.GRASS).noOcclusion().noCollission()
+                        .replaceable()));
+        CAVE_VINES_GROWING = ModRegistries.BLOCKS.register("cave_vines_growing",
+                () -> new CaveVinesBlock(BlockBehaviour.Properties.of().mapColor(MapColor.PLANT)
+                        .strength(0.2F).sound(SoundType.GRASS).noOcclusion().noCollission()
+                        .replaceable()));
+        ALL.add(CAVE_VINES);
+        ALL.add(CAVE_VINES_GROWING);
     }
 
     /** Registers one block per enum constant, named "<base>_<variant>". */

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "plug:cave_vines",
+        "plug:cave_vines_growing"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "plug:block/energy_block_green"
+                          }
+                 }
+}

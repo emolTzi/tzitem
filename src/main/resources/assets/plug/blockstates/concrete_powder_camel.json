@@ -1,0 +1,7 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "plug:block/concrete_powder_camel"
+                          }
+                 }
+}
