@@ -37,6 +37,7 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('import net.minecraft.world.item.Item;')
 [void]$sb.AppendLine('import net.minecraft.world.item.Tier;')
 [void]$sb.AppendLine('import net.minecraft.world.item.crafting.Ingredient;')
+[void]$sb.AppendLine('import net.minecraft.world.food.FoodProperties;')
 [void]$sb.AppendLine('import net.neoforged.neoforge.common.SimpleTier;')
 [void]$sb.AppendLine('import net.neoforged.neoforge.registries.DeferredItem;')
 [void]$sb.AppendLine('')
@@ -73,6 +74,10 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('            BlockTags.INCORRECT_FOR_IRON_TOOL, 0, 6.0F, 1.0F, 0,')
 [void]$sb.AppendLine('            () -> Ingredient.EMPTY);')
 [void]$sb.AppendLine('')
+[void]$sb.AppendLine('    /** Food stats shared by the 19 plugin apples (1.12.2: 4 hunger, 1.2 saturation, always edible). */')
+[void]$sb.AppendLine('    public static final FoodProperties APPLE_FOOD = new FoodProperties.Builder()')
+[void]$sb.AppendLine('            .nutrition(4).saturationModifier(1.2F).alwaysEdible().build();')
+[void]$sb.AppendLine('')
 [void]$sb.AppendLine('    private static DeferredItem<Item> simple(String name, List<DeferredItem<Item>> tab) {')
 [void]$sb.AppendLine('        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new Item(new Item.Properties()));')
 [void]$sb.AppendLine('        ALL.add(it);')
@@ -84,6 +89,13 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new WeaponItem(tier, new Item.Properties()));')
 [void]$sb.AppendLine('        ALL.add(it);')
 [void]$sb.AppendLine('        tab.add(it);')
+[void]$sb.AppendLine('        return it;')
+[void]$sb.AppendLine('    }')
+[void]$sb.AppendLine('')
+[void]$sb.AppendLine('    private static DeferredItem<Item> apple(String name, int variant) {')
+[void]$sb.AppendLine('        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new AppleItem(variant, new Item.Properties().food(APPLE_FOOD)));')
+[void]$sb.AppendLine('        ALL.add(it);')
+[void]$sb.AppendLine('        MISC.add(it);')
 [void]$sb.AppendLine('        return it;')
 [void]$sb.AppendLine('    }')
 [void]$sb.AppendLine('')
@@ -127,7 +139,11 @@ Emit $null { $_.tex -like 'balls/*' } 'simple' 'MISC'
 [void]$sb.AppendLine('        // ---- Misc: eyes ----')
 Emit $null { $_.tex -like 'eyes/*' } 'simple' 'MISC'
 [void]$sb.AppendLine('        // ---- Misc: apples (food) ----')
-Emit $null { $_.tex -like 'apples/*' } 'simple' 'MISC'
+$appleIdx = 0
+foreach ($it in $items | Where-Object { $_.tex -like 'apples/*' }) {
+    [void]$sb.AppendLine("        apple(`"$($it.name)`", $appleIdx);")
+    $appleIdx++
+}
 [void]$sb.AppendLine('        // ---- Misc: artifacts ----')
 Emit $null { $_.tex -like 'artifacts/*' } 'simple' 'MISC'
 [void]$sb.AppendLine('        // ---- Cards ----')

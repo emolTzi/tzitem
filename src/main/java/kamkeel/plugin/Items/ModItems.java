@@ -6,6 +6,7 @@ import net.minecraft.tags.BlockTags;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.crafting.Ingredient;
+import net.minecraft.world.food.FoodProperties;
 import net.neoforged.neoforge.common.SimpleTier;
 import net.neoforged.neoforge.registries.DeferredItem;
 
@@ -42,6 +43,10 @@ public final class ModItems {
             BlockTags.INCORRECT_FOR_IRON_TOOL, 0, 6.0F, 1.0F, 0,
             () -> Ingredient.EMPTY);
 
+    /** Food stats shared by the 19 plugin apples (1.12.2: 4 hunger, 1.2 saturation, always edible). */
+    public static final FoodProperties APPLE_FOOD = new FoodProperties.Builder()
+            .nutrition(4).saturationModifier(1.2F).alwaysEdible().build();
+
     private static DeferredItem<Item> simple(String name, List<DeferredItem<Item>> tab) {
         DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new Item(new Item.Properties()));
         ALL.add(it);
@@ -53,6 +58,13 @@ public final class ModItems {
         DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new WeaponItem(tier, new Item.Properties()));
         ALL.add(it);
         tab.add(it);
+        return it;
+    }
+
+    private static DeferredItem<Item> apple(String name, int variant) {
+        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new AppleItem(variant, new Item.Properties().food(APPLE_FOOD)));
+        ALL.add(it);
+        MISC.add(it);
         return it;
     }
 
@@ -201,25 +213,25 @@ public final class ModItems {
         simple("eyes_byakugan", MISC);
         simple("eyes_rinnegan", MISC);
         // ---- Misc: apples (food) ----
-        simple("classic_apple", MISC);
-        simple("founding_apple", MISC);
-        simple("vintage_apple", MISC);
-        simple("rage_apple", MISC);
-        simple("mend_apple", MISC);
-        simple("shield_apple", MISC);
-        simple("buffer_apple", MISC);
-        simple("swift_apple", MISC);
-        simple("boost_apple", MISC);
-        simple("alert_apple", MISC);
-        simple("element_apple", MISC);
-        simple("full_apple", MISC);
-        simple("drunk_apple", MISC);
-        simple("tank_apple", MISC);
-        simple("rotten_apple", MISC);
-        simple("corrupt_apple", MISC);
-        simple("reinforced_apple", MISC);
-        simple("toxic_apple", MISC);
-        simple("odd_apple", MISC);
+        apple("classic_apple", 0);
+        apple("founding_apple", 1);
+        apple("vintage_apple", 2);
+        apple("rage_apple", 3);
+        apple("mend_apple", 4);
+        apple("shield_apple", 5);
+        apple("buffer_apple", 6);
+        apple("swift_apple", 7);
+        apple("boost_apple", 8);
+        apple("alert_apple", 9);
+        apple("element_apple", 10);
+        apple("full_apple", 11);
+        apple("drunk_apple", 12);
+        apple("tank_apple", 13);
+        apple("rotten_apple", 14);
+        apple("corrupt_apple", 15);
+        apple("reinforced_apple", 16);
+        apple("toxic_apple", 17);
+        apple("odd_apple", 18);
         // ---- Misc: artifacts ----
         simple("artifact_stoneegg", MISC);
         simple("artifact_primary", MISC);
