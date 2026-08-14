@@ -34,6 +34,7 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('import kamkeel.plugin.Blocks.ModBlocks;')
 [void]$sb.AppendLine('import kamkeel.plugin.ModRegistries;')
 [void]$sb.AppendLine('import net.minecraft.tags.BlockTags;')
+[void]$sb.AppendLine('import net.minecraft.world.item.BowItem;')
 [void]$sb.AppendLine('import net.minecraft.world.item.Item;')
 [void]$sb.AppendLine('import net.minecraft.world.item.Tier;')
 [void]$sb.AppendLine('import net.minecraft.world.item.crafting.Ingredient;')
@@ -58,6 +59,7 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('    public static final List<DeferredItem<Item>> MISC = new ArrayList<>();')
 [void]$sb.AppendLine('    public static final List<DeferredItem<Item>> CARDS = new ArrayList<>();')
 [void]$sb.AppendLine('    public static final List<DeferredItem<Item>> WEAPONS = new ArrayList<>();')
+[void]$sb.AppendLine('    public static final List<DeferredItem<Item>> BOWS = new ArrayList<>();')
 [void]$sb.AppendLine('')
 [void]$sb.AppendLine('    /** Generic weapon tier (1.12.2 PluginMaterial: 20000 uses, 6.0 speed, 7.0 damage). */')
 [void]$sb.AppendLine('    public static final Tier WEAPON_TIER = new SimpleTier(')
@@ -96,6 +98,14 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new AppleItem(variant, new Item.Properties().food(APPLE_FOOD)));')
 [void]$sb.AppendLine('        ALL.add(it);')
 [void]$sb.AppendLine('        MISC.add(it);')
+[void]$sb.AppendLine('        return it;')
+[void]$sb.AppendLine('    }')
+[void]$sb.AppendLine('')
+[void]$sb.AppendLine('    private static DeferredItem<Item> bow(String name) {')
+[void]$sb.AppendLine('        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new BowItem(new Item.Properties().stacksTo(1)));')
+[void]$sb.AppendLine('        ALL.add(it);')
+[void]$sb.AppendLine('        WEAPONS.add(it);')
+[void]$sb.AppendLine('        BOWS.add(it);')
 [void]$sb.AppendLine('        return it;')
 [void]$sb.AppendLine('    }')
 [void]$sb.AppendLine('')
@@ -159,7 +169,9 @@ foreach ($it in $items | Where-Object { $_.tab -eq 'weapons' -and $_.kind -eq 'w
     [void]$sb.AppendLine("        weapon(`"$($it.name)`", $tier, WEAPONS);")
 }
 [void]$sb.AppendLine('        // ---- Weapons: bows ----')
-Emit $null { $_.kind -eq 'bow' } 'simple' 'WEAPONS'
+foreach ($it in $items | Where-Object { $_.kind -eq 'bow' }) {
+    [void]$sb.AppendLine("        bow(`"$($it.name)`");")
+}
 
 [void]$sb.AppendLine('    }')
 [void]$sb.AppendLine('}')

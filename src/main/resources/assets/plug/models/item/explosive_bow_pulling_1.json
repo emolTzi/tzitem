@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/bows/explosive_bow_pulling_1"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -3,6 +3,7 @@ package kamkeel.plugin.Items;
 import kamkeel.plugin.Blocks.ModBlocks;
 import kamkeel.plugin.ModRegistries;
 import net.minecraft.tags.BlockTags;
+import net.minecraft.world.item.BowItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.crafting.Ingredient;
@@ -27,6 +28,7 @@ public final class ModItems {
     public static final List<DeferredItem<Item>> MISC = new ArrayList<>();
     public static final List<DeferredItem<Item>> CARDS = new ArrayList<>();
     public static final List<DeferredItem<Item>> WEAPONS = new ArrayList<>();
+    public static final List<DeferredItem<Item>> BOWS = new ArrayList<>();
 
     /** Generic weapon tier (1.12.2 PluginMaterial: 20000 uses, 6.0 speed, 7.0 damage). */
     public static final Tier WEAPON_TIER = new SimpleTier(
@@ -65,6 +67,14 @@ public final class ModItems {
         DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new AppleItem(variant, new Item.Properties().food(APPLE_FOOD)));
         ALL.add(it);
         MISC.add(it);
+        return it;
+    }
+
+    private static DeferredItem<Item> bow(String name) {
+        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new BowItem(new Item.Properties().stacksTo(1)));
+        ALL.add(it);
+        WEAPONS.add(it);
+        BOWS.add(it);
         return it;
     }
 
@@ -938,20 +948,20 @@ public final class ModItems {
         weapon("void_shield", WEAPON_TIER, WEAPONS);
         weapon("wood_shield", WEAPON_TIER, WEAPONS);
         // ---- Weapons: bows ----
-        simple("dark_metal_bow", WEAPONS);
-        simple("death_bow", WEAPONS);
-        simple("end_stone_bow", WEAPONS);
-        simple("explosive_bow", WEAPONS);
-        simple("hurricane_bow", WEAPONS);
-        simple("magma_bow", WEAPONS);
-        simple("mosquito_bow", WEAPONS);
-        simple("scorpion_bow", WEAPONS);
-        simple("spider_bow", WEAPONS);
-        simple("reaper_bow", WEAPONS);
-        simple("cryptic_bow", WEAPONS);
-        simple("sniper_bow", WEAPONS);
-        simple("soulstealer_bow", WEAPONS);
-        simple("spirit_bow", WEAPONS);
-        simple("undead_bow", WEAPONS);
+        bow("dark_metal_bow");
+        bow("death_bow");
+        bow("end_stone_bow");
+        bow("explosive_bow");
+        bow("hurricane_bow");
+        bow("magma_bow");
+        bow("mosquito_bow");
+        bow("scorpion_bow");
+        bow("spider_bow");
+        bow("reaper_bow");
+        bow("cryptic_bow");
+        bow("sniper_bow");
+        bow("soulstealer_bow");
+        bow("spirit_bow");
+        bow("undead_bow");
     }
 }

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/bows/mosquito_bow_pulling_0"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/bows/reaper_bow_pulling_2"
+                 },
+    "parent":  "minecraft:item/generated"
+}
