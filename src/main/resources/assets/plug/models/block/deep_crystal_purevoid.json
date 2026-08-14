@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/deep_crystal_purevoid",
-                     "particle":  "plug:blocks/deep_crystal_purevoid"
+                     "all":  "plug:block/deep_crystal_purevoid",
+                     "particle":  "plug:block/deep_crystal_purevoid"
                  },
     "elements":  [
                      {

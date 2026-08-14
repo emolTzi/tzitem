@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/scorchia_raw",
-                     "particle":  "plug:blocks/scorchia_raw"
+                     "all":  "plug:block/scorchia_raw",
+                     "particle":  "plug:block/scorchia_raw"
                  },
     "elements":  [
                      {

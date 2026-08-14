@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_haze",
-                     "particle":  "plug:blocks/concrete_haze"
+                     "all":  "plug:block/concrete_haze",
+                     "particle":  "plug:block/concrete_haze"
                  },
     "elements":  [
                      {

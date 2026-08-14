@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/dark_impure",
-                     "particle":  "plug:blocks/dark_impure"
+                     "all":  "plug:block/dark_impure",
+                     "particle":  "plug:block/dark_impure"
                  },
     "elements":  [
                      {

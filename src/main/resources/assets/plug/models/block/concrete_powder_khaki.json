@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_powder_khaki",
-                     "particle":  "plug:blocks/concrete_powder_khaki"
+                     "all":  "plug:block/concrete_powder_khaki",
+                     "particle":  "plug:block/concrete_powder_khaki"
                  },
     "elements":  [
                      {

@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_seaweed",
-                     "particle":  "plug:blocks/concrete_seaweed"
+                     "all":  "plug:block/concrete_seaweed",
+                     "particle":  "plug:block/concrete_seaweed"
                  },
     "elements":  [
                      {

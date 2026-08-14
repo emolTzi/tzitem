@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:dark_impure"
+                              "model":  "plug:block/dark_impure"
                           }
                  }
 }

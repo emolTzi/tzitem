@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/mangrove",
-                     "particle":  "plug:blocks/barrel/side/mangrove",
-                     "side":  "plug:blocks/barrel/side/mangrove",
-                     "top":  "plug:blocks/barrel/top/mangrove"
+                     "bottom":  "plug:block/barrel/bottom/mangrove",
+                     "particle":  "plug:block/barrel/side/mangrove",
+                     "side":  "plug:block/barrel/side/mangrove",
+                     "top":  "plug:block/barrel/top/mangrove"
                  },
     "elements":  [
                      {

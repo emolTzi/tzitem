@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/tuff_raw",
-                     "particle":  "plug:blocks/tuff_raw"
+                     "all":  "plug:block/tuff_raw",
+                     "particle":  "plug:block/tuff_raw"
                  },
     "elements":  [
                      {

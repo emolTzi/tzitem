@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/redwood",
-                     "particle":  "plug:blocks/barrel/side/redwood",
-                     "side":  "plug:blocks/barrel/side/redwood",
-                     "top":  "plug:blocks/barrel/top/redwood"
+                     "bottom":  "plug:block/barrel/bottom/redwood",
+                     "particle":  "plug:block/barrel/side/redwood",
+                     "side":  "plug:block/barrel/side/redwood",
+                     "top":  "plug:block/barrel/top/redwood"
                  },
     "elements":  [
                      {

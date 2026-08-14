@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_sky_blue",
-                     "particle":  "plug:blocks/concrete_sky_blue"
+                     "all":  "plug:block/concrete_sky_blue",
+                     "particle":  "plug:block/concrete_sky_blue"
                  },
     "elements":  [
                      {

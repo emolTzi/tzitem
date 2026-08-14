@@ -1,52 +1,52 @@
 {
   "variants": {
     "meta=0": {
-      "model": "plug:energy_block_blood_red"
+      "model": "plug:block/energy_block_blood_red"
     },
     "meta=1": {
-      "model": "plug:energy_block_baby_blue"
+      "model": "plug:block/energy_block_baby_blue"
     },
     "meta=2": {
-      "model": "plug:energy_block_dark_blue"
+      "model": "plug:block/energy_block_dark_blue"
     },
     "meta=3": {
-      "model": "plug:energy_block_deep_blue"
+      "model": "plug:block/energy_block_deep_blue"
     },
     "meta=4": {
-      "model": "plug:energy_block_green"
+      "model": "plug:block/energy_block_green"
     },
     "meta=5": {
-      "model": "plug:energy_block_hot_pink"
+      "model": "plug:block/energy_block_hot_pink"
     },
     "meta=6": {
-      "model": "plug:energy_block_lemon"
+      "model": "plug:block/energy_block_lemon"
     },
     "meta=7": {
-      "model": "plug:energy_block_light_blue"
+      "model": "plug:block/energy_block_light_blue"
     },
     "meta=8": {
-      "model": "plug:energy_block_lime"
+      "model": "plug:block/energy_block_lime"
     },
     "meta=9": {
-      "model": "plug:energy_block_magenta"
+      "model": "plug:block/energy_block_magenta"
     },
     "meta=10": {
-      "model": "plug:energy_block_orange"
+      "model": "plug:block/energy_block_orange"
     },
     "meta=11": {
-      "model": "plug:energy_block_purple"
+      "model": "plug:block/energy_block_purple"
     },
     "meta=12": {
-      "model": "plug:energy_block_red"
+      "model": "plug:block/energy_block_red"
     },
     "meta=13": {
-      "model": "plug:energy_block_teal"
+      "model": "plug:block/energy_block_teal"
     },
     "meta=14": {
-      "model": "plug:energy_block_turquoise"
+      "model": "plug:block/energy_block_turquoise"
     },
     "meta=15": {
-      "model": "plug:energy_block_yellow"
+      "model": "plug:block/energy_block_yellow"
     }
   }
 }

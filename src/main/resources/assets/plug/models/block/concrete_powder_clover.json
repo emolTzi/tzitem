@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_powder_clover",
-                     "particle":  "plug:blocks/concrete_powder_clover"
+                     "all":  "plug:block/concrete_powder_clover",
+                     "particle":  "plug:block/concrete_powder_clover"
                  },
     "elements":  [
                      {

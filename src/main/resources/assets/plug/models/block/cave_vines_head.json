@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/cave_vines_head",
-                     "particle":  "plug:blocks/cave_vines_head"
+                     "all":  "plug:block/cave_vines_head",
+                     "particle":  "plug:block/cave_vines_head"
                  },
     "elements":  [
                      {

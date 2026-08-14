@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:ochrum_cut"
+                              "model":  "plug:block/ochrum_cut"
                           }
                  }
 }

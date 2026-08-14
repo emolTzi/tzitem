@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/deep_crystal_void",
-                     "particle":  "plug:blocks/deep_crystal_void"
+                     "all":  "plug:block/deep_crystal_void",
+                     "particle":  "plug:block/deep_crystal_void"
                  },
     "elements":  [
                      {

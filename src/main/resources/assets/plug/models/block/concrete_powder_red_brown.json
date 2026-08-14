@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_powder_red_brown",
-                     "particle":  "plug:blocks/concrete_powder_red_brown"
+                     "all":  "plug:block/concrete_powder_red_brown",
+                     "particle":  "plug:block/concrete_powder_red_brown"
                  },
     "elements":  [
                      {

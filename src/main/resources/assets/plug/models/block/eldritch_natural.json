@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/eldritch_natural",
-                     "particle":  "plug:blocks/eldritch_natural"
+                     "all":  "plug:block/eldritch_natural",
+                     "particle":  "plug:block/eldritch_natural"
                  },
     "elements":  [
                      {

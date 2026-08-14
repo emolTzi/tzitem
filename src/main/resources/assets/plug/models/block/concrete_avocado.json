@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_avocado",
-                     "particle":  "plug:blocks/concrete_avocado"
+                     "all":  "plug:block/concrete_avocado",
+                     "particle":  "plug:block/concrete_avocado"
                  },
     "elements":  [
                      {

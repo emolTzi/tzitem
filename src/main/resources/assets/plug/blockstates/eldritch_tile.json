@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:eldritch_tile"
+                              "model":  "plug:block/eldritch_tile"
                           }
                  }
 }

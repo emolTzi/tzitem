@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/midnight_base",
-                     "particle":  "plug:blocks/midnight_base"
+                     "all":  "plug:block/midnight_base",
+                     "particle":  "plug:block/midnight_base"
                  },
     "elements":  [
                      {

@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:midnight_hyper"
+                              "model":  "plug:block/midnight_hyper"
                           }
                  }
 }

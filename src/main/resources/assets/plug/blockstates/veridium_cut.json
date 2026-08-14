@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:veridium_cut"
+                              "model":  "plug:block/veridium_cut"
                           }
                  }
 }

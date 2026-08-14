@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/jacaranda",
-                     "particle":  "plug:blocks/barrel/side/jacaranda",
-                     "side":  "plug:blocks/barrel/side/jacaranda",
-                     "top":  "plug:blocks/barrel/top/jacaranda"
+                     "bottom":  "plug:block/barrel/bottom/jacaranda",
+                     "particle":  "plug:block/barrel/side/jacaranda",
+                     "side":  "plug:block/barrel/side/jacaranda",
+                     "top":  "plug:block/barrel/top/jacaranda"
                  },
     "elements":  [
                      {

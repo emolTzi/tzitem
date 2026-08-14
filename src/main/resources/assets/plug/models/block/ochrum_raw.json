@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/ochrum_raw",
-                     "particle":  "plug:blocks/ochrum_raw"
+                     "all":  "plug:block/ochrum_raw",
+                     "particle":  "plug:block/ochrum_raw"
                  },
     "elements":  [
                      {

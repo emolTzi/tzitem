@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_powder_peanut",
-                     "particle":  "plug:blocks/concrete_powder_peanut"
+                     "all":  "plug:block/concrete_powder_peanut",
+                     "particle":  "plug:block/concrete_powder_peanut"
                  },
     "elements":  [
                      {

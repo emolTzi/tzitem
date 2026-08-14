@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:rage_lucid"
+                              "model":  "plug:block/rage_lucid"
                           }
                  }
 }

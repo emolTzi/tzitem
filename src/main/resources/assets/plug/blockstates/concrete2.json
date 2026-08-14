@@ -1,52 +1,52 @@
 {
   "variants": {
     "meta=0": {
-      "model": "plug:concrete_blood"
+      "model": "plug:block/concrete_blood"
     },
     "meta=1": {
-      "model": "plug:concrete_seafoam"
+      "model": "plug:block/concrete_seafoam"
     },
     "meta=2": {
-      "model": "plug:concrete_mauve"
+      "model": "plug:block/concrete_mauve"
     },
     "meta=3": {
-      "model": "plug:concrete_seaweed"
+      "model": "plug:block/concrete_seaweed"
     },
     "meta=4": {
-      "model": "plug:concrete_carbon"
+      "model": "plug:block/concrete_carbon"
     },
     "meta=5": {
-      "model": "plug:concrete_indigo"
+      "model": "plug:block/concrete_indigo"
     },
     "meta=6": {
-      "model": "plug:concrete_khaki"
+      "model": "plug:block/concrete_khaki"
     },
     "meta=7": {
-      "model": "plug:concrete_ash"
+      "model": "plug:block/concrete_ash"
     },
     "meta=8": {
-      "model": "plug:concrete_ivy"
+      "model": "plug:block/concrete_ivy"
     },
     "meta=9": {
-      "model": "plug:concrete_ivory"
+      "model": "plug:block/concrete_ivory"
     },
     "meta=10": {
-      "model": "plug:concrete_camel"
+      "model": "plug:block/concrete_camel"
     },
     "meta=11": {
-      "model": "plug:concrete_salmon"
+      "model": "plug:block/concrete_salmon"
     },
     "meta=12": {
-      "model": "plug:concrete_blood"
+      "model": "plug:block/concrete_blood"
     },
     "meta=13": {
-      "model": "plug:concrete_blood"
+      "model": "plug:block/concrete_blood"
     },
     "meta=14": {
-      "model": "plug:concrete_blood"
+      "model": "plug:block/concrete_blood"
     },
     "meta=15": {
-      "model": "plug:concrete_blood"
+      "model": "plug:block/concrete_blood"
     }
   }
 }

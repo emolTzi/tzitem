@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/acacia",
-                     "particle":  "plug:blocks/barrel/side/acacia",
-                     "side":  "plug:blocks/barrel/side/acacia",
-                     "top":  "plug:blocks/barrel/top/acacia"
+                     "bottom":  "plug:block/barrel/bottom/acacia",
+                     "particle":  "plug:block/barrel/side/acacia",
+                     "side":  "plug:block/barrel/side/acacia",
+                     "top":  "plug:block/barrel/top/acacia"
                  },
     "elements":  [
                      {

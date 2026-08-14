@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:midnight_pure"
+                              "model":  "plug:block/midnight_pure"
                           }
                  }
 }

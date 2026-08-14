@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/lightstone_spiral",
-                     "particle":  "plug:blocks/lightstone_spiral"
+                     "all":  "plug:block/lightstone_spiral",
+                     "particle":  "plug:block/lightstone_spiral"
                  },
     "elements":  [
                      {

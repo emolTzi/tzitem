@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/willow",
-                     "particle":  "plug:blocks/barrel/side/willow",
-                     "side":  "plug:blocks/barrel/side/willow",
-                     "top":  "plug:blocks/barrel/top/willow"
+                     "bottom":  "plug:block/barrel/bottom/willow",
+                     "particle":  "plug:block/barrel/side/willow",
+                     "side":  "plug:block/barrel/side/willow",
+                     "top":  "plug:block/barrel/top/willow"
                  },
     "elements":  [
                      {

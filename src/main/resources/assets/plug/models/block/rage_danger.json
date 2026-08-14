@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/rage_danger",
-                     "particle":  "plug:blocks/rage_danger"
+                     "all":  "plug:block/rage_danger",
+                     "particle":  "plug:block/rage_danger"
                  },
     "elements":  [
                      {

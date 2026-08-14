@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:limestone_raw"
+                              "model":  "plug:block/limestone_raw"
                           }
                  }
 }

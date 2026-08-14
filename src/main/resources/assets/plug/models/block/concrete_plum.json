@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_plum",
-                     "particle":  "plug:blocks/concrete_plum"
+                     "all":  "plug:block/concrete_plum",
+                     "particle":  "plug:block/concrete_plum"
                  },
     "elements":  [
                      {

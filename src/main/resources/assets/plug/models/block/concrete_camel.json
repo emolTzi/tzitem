@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_camel",
-                     "particle":  "plug:blocks/concrete_camel"
+                     "all":  "plug:block/concrete_camel",
+                     "particle":  "plug:block/concrete_camel"
                  },
     "elements":  [
                      {

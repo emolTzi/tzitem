@@ -1,27 +1,27 @@
 {
   "variants": {
     "facing=up": {
-      "model": "plug:barrel_dark_oak"
+      "model": "plug:block/barrel_dark_oak"
     },
     "facing=down": {
-      "model": "plug:barrel_dark_oak",
+      "model": "plug:block/barrel_dark_oak",
       "x": 180
     },
     "facing=north": {
-      "model": "plug:barrel_dark_oak",
+      "model": "plug:block/barrel_dark_oak",
       "x": 270
     },
     "facing=south": {
-      "model": "plug:barrel_dark_oak",
+      "model": "plug:block/barrel_dark_oak",
       "x": 90
     },
     "facing=west": {
-      "model": "plug:barrel_dark_oak",
+      "model": "plug:block/barrel_dark_oak",
       "x": 90,
       "y": 90
     },
     "facing=east": {
-      "model": "plug:barrel_dark_oak",
+      "model": "plug:block/barrel_dark_oak",
       "x": 90,
       "y": 270
     }

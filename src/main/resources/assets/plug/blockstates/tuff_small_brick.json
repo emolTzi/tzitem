@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:tuff_small_brick"
+                              "model":  "plug:block/tuff_small_brick"
                           }
                  }
 }

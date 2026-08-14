@@ -1,10 +1,10 @@
 {
   "variants": {
     "variant=0": {
-      "model": "plug:cave_vines_head"
+      "model": "plug:block/cave_vines_head"
     },
     "variant=1": {
-      "model": "plug:cave_vines_body"
+      "model": "plug:block/cave_vines_body"
     }
   }
 }

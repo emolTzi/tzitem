@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/dripstone_polished",
-                     "particle":  "plug:blocks/dripstone_polished"
+                     "all":  "plug:block/dripstone_polished",
+                     "particle":  "plug:block/dripstone_polished"
                  },
     "elements":  [
                      {

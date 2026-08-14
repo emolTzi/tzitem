@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/mahogany",
-                     "particle":  "plug:blocks/barrel/side/mahogany",
-                     "side":  "plug:blocks/barrel/side/mahogany",
-                     "top":  "plug:blocks/barrel/top/mahogany"
+                     "bottom":  "plug:block/barrel/bottom/mahogany",
+                     "particle":  "plug:block/barrel/side/mahogany",
+                     "side":  "plug:block/barrel/side/mahogany",
+                     "top":  "plug:block/barrel/top/mahogany"
                  },
     "elements":  [
                      {

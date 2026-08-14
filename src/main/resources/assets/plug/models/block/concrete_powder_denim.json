@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_powder_denim",
-                     "particle":  "plug:blocks/concrete_powder_denim"
+                     "all":  "plug:block/concrete_powder_denim",
+                     "particle":  "plug:block/concrete_powder_denim"
                  },
     "elements":  [
                      {

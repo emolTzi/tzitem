@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_caramel",
-                     "particle":  "plug:blocks/concrete_caramel"
+                     "all":  "plug:block/concrete_caramel",
+                     "particle":  "plug:block/concrete_caramel"
                  },
     "elements":  [
                      {

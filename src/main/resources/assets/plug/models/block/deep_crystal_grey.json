@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/deep_crystal_grey",
-                     "particle":  "plug:blocks/deep_crystal_grey"
+                     "all":  "plug:block/deep_crystal_grey",
+                     "particle":  "plug:block/deep_crystal_grey"
                  },
     "elements":  [
                      {

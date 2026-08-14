@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/lightstone_neon",
-                     "particle":  "plug:blocks/lightstone_neon"
+                     "all":  "plug:block/lightstone_neon",
+                     "particle":  "plug:block/lightstone_neon"
                  },
     "elements":  [
                      {

@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:ochrum_small_brick"
+                              "model":  "plug:block/ochrum_small_brick"
                           }
                  }
 }

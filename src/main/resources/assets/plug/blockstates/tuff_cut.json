@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:tuff_cut"
+                              "model":  "plug:block/tuff_cut"
                           }
                  }
 }

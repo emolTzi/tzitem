@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:crimsite_cut"
+                              "model":  "plug:block/crimsite_cut"
                           }
                  }
 }

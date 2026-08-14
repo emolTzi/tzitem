@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/limestone_brick",
-                     "particle":  "plug:blocks/limestone_brick"
+                     "all":  "plug:block/limestone_brick",
+                     "particle":  "plug:block/limestone_brick"
                  },
     "elements":  [
                      {

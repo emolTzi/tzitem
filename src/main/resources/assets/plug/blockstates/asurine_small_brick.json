@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:asurine_small_brick"
+                              "model":  "plug:block/asurine_small_brick"
                           }
                  }
 }

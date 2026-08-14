@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_powder_salmon",
-                     "particle":  "plug:blocks/concrete_powder_salmon"
+                     "all":  "plug:block/concrete_powder_salmon",
+                     "particle":  "plug:block/concrete_powder_salmon"
                  },
     "elements":  [
                      {

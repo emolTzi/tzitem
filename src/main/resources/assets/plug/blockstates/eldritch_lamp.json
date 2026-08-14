@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:eldritch_lamp"
+                              "model":  "plug:block/eldritch_lamp"
                           }
                  }
 }

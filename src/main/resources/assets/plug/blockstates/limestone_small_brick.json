@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:limestone_small_brick"
+                              "model":  "plug:block/limestone_small_brick"
                           }
                  }
 }

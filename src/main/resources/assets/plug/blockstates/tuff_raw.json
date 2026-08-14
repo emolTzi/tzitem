@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:tuff_raw"
+                              "model":  "plug:block/tuff_raw"
                           }
                  }
 }

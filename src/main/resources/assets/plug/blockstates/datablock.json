@@ -1,7 +1,7 @@
 {
   "variants": {
     "normal": {
-      "model": "plug:empty"
+      "model": "plug:block/empty"
     }
   }
 }

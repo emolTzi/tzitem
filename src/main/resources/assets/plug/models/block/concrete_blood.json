@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_blood",
-                     "particle":  "plug:blocks/concrete_blood"
+                     "all":  "plug:block/concrete_blood",
+                     "particle":  "plug:block/concrete_blood"
                  },
     "elements":  [
                      {

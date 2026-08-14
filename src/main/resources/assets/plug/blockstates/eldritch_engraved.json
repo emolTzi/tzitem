@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:eldritch_engraved"
+                              "model":  "plug:block/eldritch_engraved"
                           }
                  }
 }

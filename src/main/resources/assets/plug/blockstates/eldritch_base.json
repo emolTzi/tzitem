@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:eldritch_base"
+                              "model":  "plug:block/eldritch_base"
                           }
                  }
 }

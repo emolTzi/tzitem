@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_ivy",
-                     "particle":  "plug:blocks/concrete_ivy"
+                     "all":  "plug:block/concrete_ivy",
+                     "particle":  "plug:block/concrete_ivy"
                  },
     "elements":  [
                      {

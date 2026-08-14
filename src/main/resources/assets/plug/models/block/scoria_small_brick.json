@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/scoria_small_brick",
-                     "particle":  "plug:blocks/scoria_small_brick"
+                     "all":  "plug:block/scoria_small_brick",
+                     "particle":  "plug:block/scoria_small_brick"
                  },
     "elements":  [
                      {

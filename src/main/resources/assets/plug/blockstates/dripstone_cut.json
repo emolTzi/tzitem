@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:dripstone_cut"
+                              "model":  "plug:block/dripstone_cut"
                           }
                  }
 }

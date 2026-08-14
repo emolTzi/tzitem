@@ -1,10 +1,10 @@
 {
   "variants": {
     "half=bottom,variant=0": {
-      "model": "plug:eu_cobble_dslab_9_full"
+      "model": "plug:block/eu_cobble_dslab_9_full"
     },
     "half=top,variant=0": {
-      "model": "plug:eu_cobble_dslab_9_full"
+      "model": "plug:block/eu_cobble_dslab_9_full"
     }
   }
 }

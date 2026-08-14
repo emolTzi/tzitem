@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/veridium_small_brick",
-                     "particle":  "plug:blocks/veridium_small_brick"
+                     "all":  "plug:block/veridium_small_brick",
+                     "particle":  "plug:block/veridium_small_brick"
                  },
     "elements":  [
                      {

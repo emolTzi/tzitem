@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:veridium_small_brick"
+                              "model":  "plug:block/veridium_small_brick"
                           }
                  }
 }

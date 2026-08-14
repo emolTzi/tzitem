@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:deep_crystal_toxic"
+                              "model":  "plug:block/deep_crystal_toxic"
                           }
                  }
 }

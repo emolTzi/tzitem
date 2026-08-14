@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/deepslate_brick",
-                     "particle":  "plug:blocks/deepslate_brick"
+                     "all":  "plug:block/deepslate_brick",
+                     "particle":  "plug:block/deepslate_brick"
                  },
     "elements":  [
                      {

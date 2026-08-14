@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_ash",
-                     "particle":  "plug:blocks/concrete_ash"
+                     "all":  "plug:block/concrete_ash",
+                     "particle":  "plug:block/concrete_ash"
                  },
     "elements":  [
                      {

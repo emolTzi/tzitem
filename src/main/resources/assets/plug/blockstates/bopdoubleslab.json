@@ -1,40 +1,40 @@
 {
   "variants": {
     "half=bottom,variant=0": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=bottom,variant=1": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=bottom,variant=2": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=bottom,variant=3": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=bottom,variant=4": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=bottom,variant=5": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=top,variant=0": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=top,variant=1": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=top,variant=2": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=top,variant=3": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=top,variant=4": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     },
     "half=top,variant=5": {
-      "model": "plug:bop_slab_double"
+      "model": "plug:block/bop_slab_double"
     }
   }
 }

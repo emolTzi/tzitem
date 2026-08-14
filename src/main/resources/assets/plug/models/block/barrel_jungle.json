@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/jungle",
-                     "particle":  "plug:blocks/barrel/side/jungle",
-                     "side":  "plug:blocks/barrel/side/jungle",
-                     "top":  "plug:blocks/barrel/top/jungle"
+                     "bottom":  "plug:block/barrel/bottom/jungle",
+                     "particle":  "plug:block/barrel/side/jungle",
+                     "side":  "plug:block/barrel/side/jungle",
+                     "top":  "plug:block/barrel/top/jungle"
                  },
     "elements":  [
                      {

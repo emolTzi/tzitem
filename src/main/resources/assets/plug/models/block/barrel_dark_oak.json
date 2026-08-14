@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/dark_oak",
-                     "particle":  "plug:blocks/barrel/side/dark_oak",
-                     "side":  "plug:blocks/barrel/side/dark_oak",
-                     "top":  "plug:blocks/barrel/top/dark_oak"
+                     "bottom":  "plug:block/barrel/bottom/dark_oak",
+                     "particle":  "plug:block/barrel/side/dark_oak",
+                     "side":  "plug:block/barrel/side/dark_oak",
+                     "top":  "plug:block/barrel/top/dark_oak"
                  },
     "elements":  [
                      {

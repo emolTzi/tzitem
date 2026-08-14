@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:deep_crystal_rune"
+                              "model":  "plug:block/deep_crystal_rune"
                           }
                  }
 }

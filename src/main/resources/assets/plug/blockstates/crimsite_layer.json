@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:crimsite_layer"
+                              "model":  "plug:block/crimsite_layer"
                           }
                  }
 }

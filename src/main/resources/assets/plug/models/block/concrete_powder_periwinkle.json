@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_powder_periwinkle",
-                     "particle":  "plug:blocks/concrete_powder_periwinkle"
+                     "all":  "plug:block/concrete_powder_periwinkle",
+                     "particle":  "plug:block/concrete_powder_periwinkle"
                  },
     "elements":  [
                      {

@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/deep_crystal_toxic",
-                     "particle":  "plug:blocks/deep_crystal_toxic"
+                     "all":  "plug:block/deep_crystal_toxic",
+                     "particle":  "plug:block/deep_crystal_toxic"
                  },
     "elements":  [
                      {

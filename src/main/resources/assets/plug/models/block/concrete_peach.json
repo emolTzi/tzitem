@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_peach",
-                     "particle":  "plug:blocks/concrete_peach"
+                     "all":  "plug:block/concrete_peach",
+                     "particle":  "plug:block/concrete_peach"
                  },
     "elements":  [
                      {

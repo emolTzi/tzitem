@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_indigo",
-                     "particle":  "plug:blocks/concrete_indigo"
+                     "all":  "plug:block/concrete_indigo",
+                     "particle":  "plug:block/concrete_indigo"
                  },
     "elements":  [
                      {

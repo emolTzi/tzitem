@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:scoria_layer"
+                              "model":  "plug:block/scoria_layer"
                           }
                  }
 }

@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/deep_crystal_rune",
-                     "particle":  "plug:blocks/deep_crystal_rune"
+                     "all":  "plug:block/deep_crystal_rune",
+                     "particle":  "plug:block/deep_crystal_rune"
                  },
     "elements":  [
                      {

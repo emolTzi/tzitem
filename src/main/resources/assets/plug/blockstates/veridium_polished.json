@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:veridium_polished"
+                              "model":  "plug:block/veridium_polished"
                           }
                  }
 }

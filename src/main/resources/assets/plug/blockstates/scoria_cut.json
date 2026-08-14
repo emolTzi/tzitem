@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:scoria_cut"
+                              "model":  "plug:block/scoria_cut"
                           }
                  }
 }

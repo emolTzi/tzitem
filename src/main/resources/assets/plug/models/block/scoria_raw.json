@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/scoria_raw",
-                     "particle":  "plug:blocks/scoria_raw"
+                     "all":  "plug:block/scoria_raw",
+                     "particle":  "plug:block/scoria_raw"
                  },
     "elements":  [
                      {

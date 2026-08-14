@@ -1,27 +1,27 @@
 {
   "variants": {
     "facing=up": {
-      "model": "plug:barrel_warped"
+      "model": "plug:block/barrel_warped"
     },
     "facing=down": {
-      "model": "plug:barrel_warped",
+      "model": "plug:block/barrel_warped",
       "x": 180
     },
     "facing=north": {
-      "model": "plug:barrel_warped",
+      "model": "plug:block/barrel_warped",
       "x": 270
     },
     "facing=south": {
-      "model": "plug:barrel_warped",
+      "model": "plug:block/barrel_warped",
       "x": 90
     },
     "facing=west": {
-      "model": "plug:barrel_warped",
+      "model": "plug:block/barrel_warped",
       "x": 90,
       "y": 90
     },
     "facing=east": {
-      "model": "plug:barrel_warped",
+      "model": "plug:block/barrel_warped",
       "x": 90,
       "y": 270
     }

@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:dark_signature"
+                              "model":  "plug:block/dark_signature"
                           }
                  }
 }

@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/ancient_stone_embossed",
-                     "particle":  "plug:blocks/ancient_stone_embossed"
+                     "all":  "plug:block/ancient_stone_embossed",
+                     "particle":  "plug:block/ancient_stone_embossed"
                  },
     "elements":  [
                      {

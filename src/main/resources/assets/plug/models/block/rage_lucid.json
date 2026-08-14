@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/rage_lucid",
-                     "particle":  "plug:blocks/rage_lucid"
+                     "all":  "plug:block/rage_lucid",
+                     "particle":  "plug:block/rage_lucid"
                  },
     "elements":  [
                      {

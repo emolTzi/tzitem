@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:ochrum_layer"
+                              "model":  "plug:block/ochrum_layer"
                           }
                  }
 }

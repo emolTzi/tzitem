@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_powder_chocolate",
-                     "particle":  "plug:blocks/concrete_powder_chocolate"
+                     "all":  "plug:block/concrete_powder_chocolate",
+                     "particle":  "plug:block/concrete_powder_chocolate"
                  },
     "elements":  [
                      {

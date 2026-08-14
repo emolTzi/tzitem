@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:scorchia_brick"
+                              "model":  "plug:block/scorchia_brick"
                           }
                  }
 }

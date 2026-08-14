@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/energy_block_yellow",
-                     "particle":  "plug:blocks/energy_block_yellow"
+                     "all":  "plug:block/energy_block_yellow",
+                     "particle":  "plug:block/energy_block_yellow"
                  },
     "elements":  [
                      {

@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/ancient_stone_bricks",
-                     "particle":  "plug:blocks/ancient_stone_bricks"
+                     "all":  "plug:block/ancient_stone_bricks",
+                     "particle":  "plug:block/ancient_stone_bricks"
                  },
     "elements":  [
                      {

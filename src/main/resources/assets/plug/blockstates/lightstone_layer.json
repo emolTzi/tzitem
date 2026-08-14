@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:lightstone_layer"
+                              "model":  "plug:block/lightstone_layer"
                           }
                  }
 }

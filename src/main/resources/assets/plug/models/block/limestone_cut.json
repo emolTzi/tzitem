@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/limestone_cut",
-                     "particle":  "plug:blocks/limestone_cut"
+                     "all":  "plug:block/limestone_cut",
+                     "particle":  "plug:block/limestone_cut"
                  },
     "elements":  [
                      {

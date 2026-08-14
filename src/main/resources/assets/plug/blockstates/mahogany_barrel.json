@@ -1,27 +1,27 @@
 {
   "variants": {
     "facing=up": {
-      "model": "plug:barrel_mahogany"
+      "model": "plug:block/barrel_mahogany"
     },
     "facing=down": {
-      "model": "plug:barrel_mahogany",
+      "model": "plug:block/barrel_mahogany",
       "x": 180
     },
     "facing=north": {
-      "model": "plug:barrel_mahogany",
+      "model": "plug:block/barrel_mahogany",
       "x": 270
     },
     "facing=south": {
-      "model": "plug:barrel_mahogany",
+      "model": "plug:block/barrel_mahogany",
       "x": 90
     },
     "facing=west": {
-      "model": "plug:barrel_mahogany",
+      "model": "plug:block/barrel_mahogany",
       "x": 90,
       "y": 90
     },
     "facing=east": {
-      "model": "plug:barrel_mahogany",
+      "model": "plug:block/barrel_mahogany",
       "x": 90,
       "y": 270
     }

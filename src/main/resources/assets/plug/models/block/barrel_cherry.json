@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/cherry",
-                     "particle":  "plug:blocks/barrel/side/cherry",
-                     "side":  "plug:blocks/barrel/side/cherry",
-                     "top":  "plug:blocks/barrel/top/cherry"
+                     "bottom":  "plug:block/barrel/bottom/cherry",
+                     "particle":  "plug:block/barrel/side/cherry",
+                     "side":  "plug:block/barrel/side/cherry",
+                     "top":  "plug:block/barrel/top/cherry"
                  },
     "elements":  [
                      {

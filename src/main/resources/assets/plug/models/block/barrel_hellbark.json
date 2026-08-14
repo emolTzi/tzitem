@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/hellbark",
-                     "particle":  "plug:blocks/barrel/side/hellbark",
-                     "side":  "plug:blocks/barrel/side/hellbark",
-                     "top":  "plug:blocks/barrel/top/hellbark"
+                     "bottom":  "plug:block/barrel/bottom/hellbark",
+                     "particle":  "plug:block/barrel/side/hellbark",
+                     "side":  "plug:block/barrel/side/hellbark",
+                     "top":  "plug:block/barrel/top/hellbark"
                  },
     "elements":  [
                      {

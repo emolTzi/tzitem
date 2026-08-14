@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/asurine_brick",
-                     "particle":  "plug:blocks/asurine_brick"
+                     "all":  "plug:block/asurine_brick",
+                     "particle":  "plug:block/asurine_brick"
                  },
     "elements":  [
                      {

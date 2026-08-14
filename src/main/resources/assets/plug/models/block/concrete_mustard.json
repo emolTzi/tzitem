@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_mustard",
-                     "particle":  "plug:blocks/concrete_mustard"
+                     "all":  "plug:block/concrete_mustard",
+                     "particle":  "plug:block/concrete_mustard"
                  },
     "elements":  [
                      {

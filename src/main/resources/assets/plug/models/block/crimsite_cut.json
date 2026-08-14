@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/crimsite_cut",
-                     "particle":  "plug:blocks/crimsite_cut"
+                     "all":  "plug:block/crimsite_cut",
+                     "particle":  "plug:block/crimsite_cut"
                  },
     "elements":  [
                      {

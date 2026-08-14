@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/lightstone_bismuth",
-                     "particle":  "plug:blocks/lightstone_bismuth"
+                     "all":  "plug:block/lightstone_bismuth",
+                     "particle":  "plug:block/lightstone_bismuth"
                  },
     "elements":  [
                      {

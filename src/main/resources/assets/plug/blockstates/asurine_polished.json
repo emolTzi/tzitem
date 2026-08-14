@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:asurine_polished"
+                              "model":  "plug:block/asurine_polished"
                           }
                  }
 }

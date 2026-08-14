@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:ancient_stone_embossed"
+                              "model":  "plug:block/ancient_stone_embossed"
                           }
                  }
 }

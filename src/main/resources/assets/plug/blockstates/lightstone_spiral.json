@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:lightstone_spiral"
+                              "model":  "plug:block/lightstone_spiral"
                           }
                  }
 }

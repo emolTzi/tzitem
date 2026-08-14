@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/lightstone_cobble",
-                     "particle":  "plug:blocks/lightstone_cobble"
+                     "all":  "plug:block/lightstone_cobble",
+                     "particle":  "plug:block/lightstone_cobble"
                  },
     "elements":  [
                      {

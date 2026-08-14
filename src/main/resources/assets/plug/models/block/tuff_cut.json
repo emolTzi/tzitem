@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/tuff_cut",
-                     "particle":  "plug:blocks/tuff_cut"
+                     "all":  "plug:block/tuff_cut",
+                     "particle":  "plug:block/tuff_cut"
                  },
     "elements":  [
                      {

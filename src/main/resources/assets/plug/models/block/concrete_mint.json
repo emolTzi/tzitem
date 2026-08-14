@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_mint",
-                     "particle":  "plug:blocks/concrete_mint"
+                     "all":  "plug:block/concrete_mint",
+                     "particle":  "plug:block/concrete_mint"
                  },
     "elements":  [
                      {

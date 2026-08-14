@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/lightstone_crack",
-                     "particle":  "plug:blocks/lightstone_crack"
+                     "all":  "plug:block/lightstone_crack",
+                     "particle":  "plug:block/lightstone_crack"
                  },
     "elements":  [
                      {

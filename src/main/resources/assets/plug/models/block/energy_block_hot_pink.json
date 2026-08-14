@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/energy_block_hot_pink",
-                     "particle":  "plug:blocks/energy_block_hot_pink"
+                     "all":  "plug:block/energy_block_hot_pink",
+                     "particle":  "plug:block/energy_block_hot_pink"
                  },
     "elements":  [
                      {

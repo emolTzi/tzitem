@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:scoria_polished"
+                              "model":  "plug:block/scoria_polished"
                           }
                  }
 }

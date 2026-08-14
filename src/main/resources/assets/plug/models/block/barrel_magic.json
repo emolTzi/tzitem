@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/magic",
-                     "particle":  "plug:blocks/barrel/side/magic",
-                     "side":  "plug:blocks/barrel/side/magic",
-                     "top":  "plug:blocks/barrel/top/magic"
+                     "bottom":  "plug:block/barrel/bottom/magic",
+                     "particle":  "plug:block/barrel/side/magic",
+                     "side":  "plug:block/barrel/side/magic",
+                     "top":  "plug:block/barrel/top/magic"
                  },
     "elements":  [
                      {

@@ -1,10 +1,10 @@
 {
   "variants": {
     "half=bottom,variant=0": {
-      "model": "plug:eu_cobble_sslab_3_half"
+      "model": "plug:block/eu_cobble_sslab_3_half"
     },
     "half=top,variant=0": {
-      "model": "plug:eu_cobble_sslab_3_upper"
+      "model": "plug:block/eu_cobble_sslab_3_upper"
     }
   }
 }

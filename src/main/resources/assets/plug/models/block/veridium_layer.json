@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/veridium_layer",
-                     "particle":  "plug:blocks/veridium_layer"
+                     "all":  "plug:block/veridium_layer",
+                     "particle":  "plug:block/veridium_layer"
                  },
     "elements":  [
                      {

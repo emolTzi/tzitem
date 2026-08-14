@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:rage_natural"
+                              "model":  "plug:block/rage_natural"
                           }
                  }
 }

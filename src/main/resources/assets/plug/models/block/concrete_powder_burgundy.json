@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/concrete_powder_burgundy",
-                     "particle":  "plug:blocks/concrete_powder_burgundy"
+                     "all":  "plug:block/concrete_powder_burgundy",
+                     "particle":  "plug:block/concrete_powder_burgundy"
                  },
     "elements":  [
                      {

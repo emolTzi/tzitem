@@ -1,52 +1,52 @@
 {
   "variants": {
     "meta=0": {
-      "model": "plug:concrete_burgundy"
+      "model": "plug:block/concrete_burgundy"
     },
     "meta=1": {
-      "model": "plug:concrete_caramel"
+      "model": "plug:block/concrete_caramel"
     },
     "meta=2": {
-      "model": "plug:concrete_chocolate"
+      "model": "plug:block/concrete_chocolate"
     },
     "meta=3": {
-      "model": "plug:concrete_denim"
+      "model": "plug:block/concrete_denim"
     },
     "meta=4": {
-      "model": "plug:concrete_haze"
+      "model": "plug:block/concrete_haze"
     },
     "meta=5": {
-      "model": "plug:concrete_mint"
+      "model": "plug:block/concrete_mint"
     },
     "meta=6": {
-      "model": "plug:concrete_peanut"
+      "model": "plug:block/concrete_peanut"
     },
     "meta=7": {
-      "model": "plug:concrete_clover"
+      "model": "plug:block/concrete_clover"
     },
     "meta=8": {
-      "model": "plug:concrete_pearl"
+      "model": "plug:block/concrete_pearl"
     },
     "meta=9": {
-      "model": "plug:concrete_mustard"
+      "model": "plug:block/concrete_mustard"
     },
     "meta=10": {
-      "model": "plug:concrete_sky_blue"
+      "model": "plug:block/concrete_sky_blue"
     },
     "meta=11": {
-      "model": "plug:concrete_periwinkle"
+      "model": "plug:block/concrete_periwinkle"
     },
     "meta=12": {
-      "model": "plug:concrete_peach"
+      "model": "plug:block/concrete_peach"
     },
     "meta=13": {
-      "model": "plug:concrete_plum"
+      "model": "plug:block/concrete_plum"
     },
     "meta=14": {
-      "model": "plug:concrete_avocado"
+      "model": "plug:block/concrete_avocado"
     },
     "meta=15": {
-      "model": "plug:concrete_red_brown"
+      "model": "plug:block/concrete_red_brown"
     }
   }
 }

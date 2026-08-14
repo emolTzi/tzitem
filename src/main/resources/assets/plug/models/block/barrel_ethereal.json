@@ -1,9 +1,9 @@
 {
     "textures":  {
-                     "bottom":  "plug:blocks/barrel/bottom/ethereal",
-                     "particle":  "plug:blocks/barrel/side/ethereal",
-                     "side":  "plug:blocks/barrel/side/ethereal",
-                     "top":  "plug:blocks/barrel/top/ethereal"
+                     "bottom":  "plug:block/barrel/bottom/ethereal",
+                     "particle":  "plug:block/barrel/side/ethereal",
+                     "side":  "plug:block/barrel/side/ethereal",
+                     "top":  "plug:block/barrel/top/ethereal"
                  },
     "elements":  [
                      {

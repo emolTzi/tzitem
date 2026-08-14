@@ -1,7 +1,7 @@
 {
     "textures":  {
-                     "all":  "plug:blocks/eldritch_engraved",
-                     "particle":  "plug:blocks/eldritch_engraved"
+                     "all":  "plug:block/eldritch_engraved",
+                     "particle":  "plug:block/eldritch_engraved"
                  },
     "elements":  [
                      {

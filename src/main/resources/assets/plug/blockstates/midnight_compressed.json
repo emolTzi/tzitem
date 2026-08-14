@@ -1,7 +1,7 @@
 {
     "variants":  {
                      "":  {
-                              "model":  "plug:midnight_compressed"
+                              "model":  "plug:block/midnight_compressed"
                           }
                  }
 }
