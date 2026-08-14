@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "variant=base": {
+      "model": "plug:eldritch_base"
+    },
+    "variant=natural": {
+      "model": "plug:eldritch_natural"
+    },
+    "variant=engraved": {
+      "model": "plug:eldritch_engraved"
+    },
+    "variant=brick": {
+      "model": "plug:eldritch_brick"
+    },
+    "variant=tile": {
+      "model": "plug:eldritch_tile"
+    },
+    "variant=stone": {
+      "model": "plug:eldritch_stone"
+    },
+    "variant=lamp": {
+      "model": "plug:eldritch_lamp"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=0": {
+      "model": "plug:eu_stonebrick_dslab_11_full"
+    },
+    "half=top,variant=0": {
+      "model": "plug:eu_stonebrick_dslab_11_full"
+    }
+  }
+}

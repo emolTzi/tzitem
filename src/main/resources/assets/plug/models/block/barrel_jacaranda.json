@@ -1,0 +1,84 @@
+{
+    "textures":  {
+                     "bottom":  "plug:blocks/barrel/bottom/jacaranda",
+                     "particle":  "plug:blocks/barrel/side/jacaranda",
+                     "side":  "plug:blocks/barrel/side/jacaranda",
+                     "top":  "plug:blocks/barrel/top/jacaranda"
+                 },
+    "elements":  [
+                     {
+                         "from":  [
+                                      0,
+                                      0,
+                                      0
+                                  ],
+                         "to":  [
+                                    16,
+                                    16,
+                                    16
+                                ],
+                         "faces":  {
+                                       "down":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "cullface":  "down",
+                                                    "texture":  "#bottom"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             0,
+                                                             0,
+                                                             16,
+                                                             16
+                                                         ],
+                                                  "cullface":  "up",
+                                                  "texture":  "#top"
+                                              },
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "cullface":  "north",
+                                                     "texture":  "#side"
+                                                 },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                16,
+                                                                16
+                                                            ],
+                                                     "cullface":  "south",
+                                                     "texture":  "#side"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "cullface":  "west",
+                                                    "texture":  "#side"
+                                                },
+                                       "east":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               16,
+                                                               16
+                                                           ],
+                                                    "cullface":  "east",
+                                                    "texture":  "#side"
+                                                }
+                                   }
+                     }
+                 ]
+}

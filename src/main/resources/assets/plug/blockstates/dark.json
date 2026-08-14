@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "variant=signature": {
+      "model": "plug:dark_signature"
+    },
+    "variant=puresignature": {
+      "model": "plug:dark_puresignature"
+    },
+    "variant=impure": {
+      "model": "plug:dark_impure"
+    },
+    "variant=pure": {
+      "model": "plug:dark_pure"
+    }
+  }
+}

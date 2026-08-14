@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "meta=0": {
+      "model": "plug:concrete_powder_blood"
+    },
+    "meta=1": {
+      "model": "plug:concrete_powder_seafoam"
+    },
+    "meta=2": {
+      "model": "plug:concrete_powder_mauve"
+    },
+    "meta=3": {
+      "model": "plug:concrete_powder_seaweed"
+    },
+    "meta=4": {
+      "model": "plug:concrete_powder_carbon"
+    },
+    "meta=5": {
+      "model": "plug:concrete_powder_indigo"
+    },
+    "meta=6": {
+      "model": "plug:concrete_powder_khaki"
+    },
+    "meta=7": {
+      "model": "plug:concrete_powder_ash"
+    },
+    "meta=8": {
+      "model": "plug:concrete_powder_ivy"
+    },
+    "meta=9": {
+      "model": "plug:concrete_powder_ivory"
+    },
+    "meta=10": {
+      "model": "plug:concrete_powder_camel"
+    },
+    "meta=11": {
+      "model": "plug:concrete_powder_salmon"
+    },
+    "meta=12": {
+      "model": "plug:concrete_powder_blood"
+    },
+    "meta=13": {
+      "model": "plug:concrete_powder_blood"
+    },
+    "meta=14": {
+      "model": "plug:concrete_powder_blood"
+    },
+    "meta=15": {
+      "model": "plug:concrete_powder_blood"
+    }
+  }
+}

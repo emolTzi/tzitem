@@ -1,0 +1,16 @@
+[
+{
+  "modid": "plug",
+  "name": "The Plugin Mod",
+  "description": "The Plugin Mod is a mod that adds many weapons, blocks, items and cards from many popular games and series. Ported to 1.12.2 from the original 1.7.10 mod by KAMKEEL.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/KAMKEEL/Plugin-Mod",
+  "updateUrl": "",
+  "authorList": ["KAMKEEL"],
+  "credits": "KAMKEEL (original 1.7.10 mod); ported to 1.12.2",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

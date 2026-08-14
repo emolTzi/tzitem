@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "half=bottom,variant=0": {
+      "model": "plug:bop_slab_limestone"
+    },
+    "half=bottom,variant=1": {
+      "model": "plug:bop_slab_limestonesmooth"
+    },
+    "half=bottom,variant=2": {
+      "model": "plug:bop_slab_siltstone"
+    },
+    "half=bottom,variant=3": {
+      "model": "plug:bop_slab_siltstonesmooth"
+    },
+    "half=bottom,variant=4": {
+      "model": "plug:bop_slab_shale"
+    },
+    "half=bottom,variant=5": {
+      "model": "plug:bop_slab_shalesmooth"
+    },
+    "half=top,variant=0": {
+      "model": "plug:bop_slab_limestone",
+      "x": 180,
+      "uvlock": true
+    },
+    "half=top,variant=1": {
+      "model": "plug:bop_slab_limestonesmooth",
+      "x": 180,
+      "uvlock": true
+    },
+    "half=top,variant=2": {
+      "model": "plug:bop_slab_siltstone",
+      "x": 180,
+      "uvlock": true
+    },
+    "half=top,variant=3": {
+      "model": "plug:bop_slab_siltstonesmooth",
+      "x": 180,
+      "uvlock": true
+    },
+    "half=top,variant=4": {
+      "model": "plug:bop_slab_shale",
+      "x": 180,
+      "uvlock": true
+    },
+    "half=top,variant=5": {
+      "model": "plug:bop_slab_shalesmooth",
+      "x": 180,
+      "uvlock": true
+    }
+  }
+}
