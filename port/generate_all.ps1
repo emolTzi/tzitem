@@ -35,7 +35,6 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('import kamkeel.plugin.ModRegistries;')
 [void]$sb.AppendLine('import net.minecraft.tags.BlockTags;')
 [void]$sb.AppendLine('import net.minecraft.world.item.Item;')
-[void]$sb.AppendLine('import net.minecraft.world.item.SwordItem;')
 [void]$sb.AppendLine('import net.minecraft.world.item.Tier;')
 [void]$sb.AppendLine('import net.minecraft.world.item.crafting.Ingredient;')
 [void]$sb.AppendLine('import net.neoforged.neoforge.common.SimpleTier;')
@@ -64,6 +63,16 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('            BlockTags.INCORRECT_FOR_IRON_TOOL, 20000, 6.0F, 7.0F, 0,')
 [void]$sb.AppendLine('            () -> Ingredient.EMPTY);')
 [void]$sb.AppendLine('')
+[void]$sb.AppendLine('    /** Glass tier (1.12.2 GLASS: 20 uses, 16.0 speed, 10.0 damage). */')
+[void]$sb.AppendLine('    public static final Tier GLASS_TIER = new SimpleTier(')
+[void]$sb.AppendLine('            BlockTags.INCORRECT_FOR_STONE_TOOL, 20, 16.0F, 10.0F, 26,')
+[void]$sb.AppendLine('            () -> Ingredient.EMPTY);')
+[void]$sb.AppendLine('')
+[void]$sb.AppendLine('    /** Broken tier (1.12.2 brokenTool: 0 uses, 1.0 damage). */')
+[void]$sb.AppendLine('    public static final Tier BROKEN_TIER = new SimpleTier(')
+[void]$sb.AppendLine('            BlockTags.INCORRECT_FOR_IRON_TOOL, 0, 6.0F, 1.0F, 0,')
+[void]$sb.AppendLine('            () -> Ingredient.EMPTY);')
+[void]$sb.AppendLine('')
 [void]$sb.AppendLine('    private static DeferredItem<Item> simple(String name, List<DeferredItem<Item>> tab) {')
 [void]$sb.AppendLine('        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new Item(new Item.Properties()));')
 [void]$sb.AppendLine('        ALL.add(it);')
@@ -71,8 +80,8 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('        return it;')
 [void]$sb.AppendLine('    }')
 [void]$sb.AppendLine('')
-[void]$sb.AppendLine('    private static DeferredItem<Item> weapon(String name, List<DeferredItem<Item>> tab) {')
-[void]$sb.AppendLine('        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new SwordItem(WEAPON_TIER, new Item.Properties()));')
+[void]$sb.AppendLine('    private static DeferredItem<Item> weapon(String name, Tier tier, List<DeferredItem<Item>> tab) {')
+[void]$sb.AppendLine('        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new WeaponItem(tier, new Item.Properties()));')
 [void]$sb.AppendLine('        ALL.add(it);')
 [void]$sb.AppendLine('        tab.add(it);')
 [void]$sb.AppendLine('        return it;')
@@ -126,7 +135,13 @@ Emit $null { $_.tab -eq 'cards' } 'simple' 'CARDS'
 [void]$sb.AppendLine('        // ---- Weapons: energy attacks ----')
 Emit $null { $_.tab -eq 'weapons' -and $_.tex -like 'energy/*' } 'simple' 'WEAPONS'
 [void]$sb.AppendLine('        // ---- Weapons ----')
-Emit $null { $_.tab -eq 'weapons' -and $_.kind -eq 'weapon' } 'weapon' 'WEAPONS'
+$glassList = @('glass_blade','glass_cutlass','glass_kunai','reverse_glass_kunai','glass_dagger','reverse_glass_dagger','crystal_spear')
+foreach ($it in $items | Where-Object { $_.tab -eq 'weapons' -and $_.kind -eq 'weapon' }) {
+    if ($it.name -match 'broken') { $tier = 'BROKEN_TIER' }
+    elseif ($glassList -contains $it.name) { $tier = 'GLASS_TIER' }
+    else { $tier = 'WEAPON_TIER' }
+    [void]$sb.AppendLine("        weapon(`"$($it.name)`", $tier, WEAPONS);")
+}
 [void]$sb.AppendLine('        // ---- Weapons: bows ----')
 Emit $null { $_.kind -eq 'bow' } 'simple' 'WEAPONS'
 
