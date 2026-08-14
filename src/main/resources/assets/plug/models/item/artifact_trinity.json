@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/artifact_trinity"
+                 },
+    "parent":  "minecraft:item/generated"
+}

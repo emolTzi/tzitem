@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/astral_dust"
+                 },
+    "parent":  "minecraft:item/generated"
+}

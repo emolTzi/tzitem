@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/demon_scroll"
+                 },
+    "parent":  "minecraft:item/generated"
+}

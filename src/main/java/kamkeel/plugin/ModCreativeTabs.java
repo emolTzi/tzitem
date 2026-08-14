@@ -15,7 +15,7 @@ public final class ModCreativeTabs {
     private ModCreativeTabs() {}
 
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CARDS_TAB = register("playing_card_tab",
-            "itemGroup.plug.cards");
+            "itemGroup.plug.playingCardTab");
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> MISC_TAB = register("misc",
             "itemGroup.plug.misc");
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> WEAPONS_TAB = register("weapons",

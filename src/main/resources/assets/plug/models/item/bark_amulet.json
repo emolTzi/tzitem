@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/bark_amulet"
+                 },
+    "parent":  "minecraft:item/generated"
+}

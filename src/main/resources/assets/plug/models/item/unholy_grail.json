@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/unholy_grail"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/midnight_fang"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

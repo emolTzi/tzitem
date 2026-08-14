@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/crimson_cutlass"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

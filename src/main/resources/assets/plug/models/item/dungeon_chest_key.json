@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/dungeon_chest_key"
+                 },
+    "parent":  "minecraft:item/generated"
+}

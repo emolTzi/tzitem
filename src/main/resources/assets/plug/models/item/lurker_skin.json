@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/lurker_skin"
+                 },
+    "parent":  "minecraft:item/generated"
+}

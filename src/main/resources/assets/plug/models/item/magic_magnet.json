@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/magic_magnet"
+                 },
+    "parent":  "minecraft:item/generated"
+}

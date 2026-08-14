@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/spatial_sign"
+                 },
+    "parent":  "minecraft:item/generated"
+}

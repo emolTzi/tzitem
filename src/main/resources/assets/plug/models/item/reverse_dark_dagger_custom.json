@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/dark_dagger_custom"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

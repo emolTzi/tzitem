@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/gondor_sword"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/swamp_talisman"
+                 },
+    "parent":  "minecraft:item/generated"
+}

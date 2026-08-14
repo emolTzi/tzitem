@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/parts/glass_disc"
+                 },
+    "parent":  "minecraft:item/generated"
+}

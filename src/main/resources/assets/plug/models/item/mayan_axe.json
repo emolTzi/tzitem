@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/mayan_axe"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

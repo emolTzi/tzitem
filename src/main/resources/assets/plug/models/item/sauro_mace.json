@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/sauro_mace"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

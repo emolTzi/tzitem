@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/dark_orb"
+                 },
+    "parent":  "minecraft:item/generated"
+}

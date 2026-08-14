@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/shark_fin"
+                 },
+    "parent":  "minecraft:item/generated"
+}

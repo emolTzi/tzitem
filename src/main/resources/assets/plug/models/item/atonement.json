@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/atonement"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/parts/treasure_cutlass_binding"
+                 },
+    "parent":  "minecraft:item/generated"
+}

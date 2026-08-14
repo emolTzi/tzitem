@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/coins/coins_amethyst"
+                 },
+    "parent":  "minecraft:item/generated"
+}

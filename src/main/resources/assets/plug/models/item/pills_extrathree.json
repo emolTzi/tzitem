@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/pills/pills_extrathree"
+                 },
+    "parent":  "minecraft:item/generated"
+}

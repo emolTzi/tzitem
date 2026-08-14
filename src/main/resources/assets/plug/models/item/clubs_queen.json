@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/cards/clubs_queen"
+                 },
+    "parent":  "minecraft:item/generated"
+}

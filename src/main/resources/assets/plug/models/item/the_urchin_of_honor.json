@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/the_urchin_of_honor"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/cards/diamond_three"
+                 },
+    "parent":  "minecraft:item/generated"
+}

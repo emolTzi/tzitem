@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/rock_waraxe"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

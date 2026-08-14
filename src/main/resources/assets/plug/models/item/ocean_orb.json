@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/ocean_orb"
+                 },
+    "parent":  "minecraft:item/generated"
+}

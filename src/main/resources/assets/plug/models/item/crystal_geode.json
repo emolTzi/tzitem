@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/crystal_geode"
+                 },
+    "parent":  "minecraft:item/generated"
+}

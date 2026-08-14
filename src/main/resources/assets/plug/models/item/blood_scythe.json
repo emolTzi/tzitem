@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/blood_scythe"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

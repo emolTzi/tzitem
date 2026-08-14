@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/ooze_sword"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

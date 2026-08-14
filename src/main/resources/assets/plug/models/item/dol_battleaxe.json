@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/dol_battleaxe"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

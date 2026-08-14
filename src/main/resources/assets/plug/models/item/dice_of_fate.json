@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/dice_of_fate"
+                 },
+    "parent":  "minecraft:item/generated"
+}

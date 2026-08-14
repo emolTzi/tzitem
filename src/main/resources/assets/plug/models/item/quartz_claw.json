@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/quartz_claw"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

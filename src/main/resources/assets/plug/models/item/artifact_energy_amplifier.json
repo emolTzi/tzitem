@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/artifact_energy_amplifier"
+                 },
+    "parent":  "minecraft:item/generated"
+}

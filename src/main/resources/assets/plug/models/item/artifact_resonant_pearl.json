@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/artifact_resonant_pearl"
+                 },
+    "parent":  "minecraft:item/generated"
+}

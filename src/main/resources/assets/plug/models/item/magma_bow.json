@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/bows/magma_bow_standby"
+                 },
+    "parent":  "minecraft:item/generated"
+}

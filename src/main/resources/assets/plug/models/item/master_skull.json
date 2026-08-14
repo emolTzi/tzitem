@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/master_skull"
+                 },
+    "parent":  "minecraft:item/generated"
+}

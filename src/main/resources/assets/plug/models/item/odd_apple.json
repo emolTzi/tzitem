@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/apples/odd_apple"
+                 },
+    "parent":  "minecraft:item/generated"
+}

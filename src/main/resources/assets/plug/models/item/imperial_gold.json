@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/materials/imperial_gold"
+                 },
+    "parent":  "minecraft:item/generated"
+}

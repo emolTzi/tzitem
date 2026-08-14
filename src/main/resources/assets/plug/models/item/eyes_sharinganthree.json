@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/eyes/eyes_sharinganthree"
+                 },
+    "parent":  "minecraft:item/generated"
+}

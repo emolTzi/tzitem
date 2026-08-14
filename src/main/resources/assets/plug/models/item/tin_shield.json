@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/shields/tin_shield"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/power_cube"
+                 },
+    "parent":  "minecraft:item/generated"
+}

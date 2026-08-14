@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/treasure_cutlass_energized"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

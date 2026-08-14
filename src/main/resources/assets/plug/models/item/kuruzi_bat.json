@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/kuruzi_bat"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

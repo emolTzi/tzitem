@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/parts/adaptors_spear_handle"
+                 },
+    "parent":  "minecraft:item/generated"
+}

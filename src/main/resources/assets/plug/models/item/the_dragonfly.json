@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/the_dragonfly"
+                 },
+    "parent":  "minecraft:item/generated"
+}

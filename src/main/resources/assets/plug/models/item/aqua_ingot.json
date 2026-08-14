@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/materials/aqua_ingot"
+                 },
+    "parent":  "minecraft:item/generated"
+}

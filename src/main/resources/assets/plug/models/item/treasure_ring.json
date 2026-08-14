@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/treasure_ring"
+                 },
+    "parent":  "minecraft:item/generated"
+}

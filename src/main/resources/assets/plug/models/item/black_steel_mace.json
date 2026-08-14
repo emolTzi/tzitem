@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/black_steel_mace"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

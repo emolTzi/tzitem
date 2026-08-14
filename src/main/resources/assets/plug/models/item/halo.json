@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/halo"
+                 },
+    "parent":  "minecraft:item/generated"
+}

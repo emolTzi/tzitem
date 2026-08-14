@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/mithril_pickaxe"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

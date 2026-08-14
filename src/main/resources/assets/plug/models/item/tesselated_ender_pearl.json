@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/tesselated_ender_pearl"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/red_scarf"
+                 },
+    "parent":  "minecraft:item/generated"
+}

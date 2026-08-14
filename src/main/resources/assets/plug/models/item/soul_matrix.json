@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/soul_matrix"
+                 },
+    "parent":  "minecraft:item/generated"
+}

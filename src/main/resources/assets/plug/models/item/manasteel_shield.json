@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/shields/manasteel_shield"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

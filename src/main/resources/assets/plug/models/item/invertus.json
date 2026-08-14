@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/invertus"
+                 },
+    "parent":  "minecraft:item/generated"
+}

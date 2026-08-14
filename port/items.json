@@ -1,0 +1,5132 @@
+[
+    {
+        "name":  "debug_dagger_broken",
+        "tex":  "weapons/debug_dagger_broken",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_debug_dagger_broken",
+        "tex":  "weapons/debug_dagger_broken",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "debug_dagger",
+        "tex":  "weapons/debug_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_debug_dagger",
+        "tex":  "weapons/debug_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "debug_dagger_energized",
+        "tex":  "weapons/debug_dagger_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_debug_dagger_energized",
+        "tex":  "weapons/debug_dagger_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_dagger_custom_broken",
+        "tex":  "weapons/dark_dagger_custom_broken",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_dark_dagger_custom_broken",
+        "tex":  "weapons/dark_dagger_custom_broken",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_longsword_custom_broken",
+        "tex":  "weapons/blue_longsword_broken",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jungle_axe_custom_broken",
+        "tex":  "weapons/jungle_axe_broken",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "glass_pan_custom_broken",
+        "tex":  "weapons/glass_pan_broken",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "treasure_cutlass_broken",
+        "tex":  "weapons/treasure_cutlass_broken",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "adaptors_spear_broken",
+        "tex":  "weapons/adaptors_spear_broken",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_longsword_custom",
+        "tex":  "weapons/blue_longsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_longsword_custom_energized",
+        "tex":  "weapons/blue_longsword_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jungle_axe_custom",
+        "tex":  "weapons/jungle_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jungle_axe_custom_energized",
+        "tex":  "weapons/jungle_axe_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "glass_pan_custom",
+        "tex":  "weapons/glass_pan",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "glass_pan_custom_energized",
+        "tex":  "weapons/glass_pan_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_scythe",
+        "tex":  "weapons/dark_scythe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_scythe_energized",
+        "tex":  "weapons/dark_scythe_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_dagger_custom",
+        "tex":  "weapons/dark_dagger_custom",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_dark_dagger_custom",
+        "tex":  "weapons/dark_dagger_custom",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_dagger_custom_energized",
+        "tex":  "weapons/dark_dagger_custom_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_dark_dagger_custom_energized",
+        "tex":  "weapons/dark_dagger_custom_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "treasure_cutlass",
+        "tex":  "weapons/treasure_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "treasure_cutlass_energized",
+        "tex":  "weapons/treasure_cutlass_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "adaptors_spear",
+        "tex":  "weapons/adaptors_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "adaptors_spear_energized",
+        "tex":  "weapons/adaptors_spear_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "aurora_katana",
+        "tex":  "weapons/aurora_katana",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "aurora_katana_energized",
+        "tex":  "weapons/aurora_katana_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "codium_longsword",
+        "tex":  "weapons/codium_longsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "codium_longsword_energized",
+        "tex":  "weapons/codium_longsword_energized",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "glass_blade",
+        "tex":  "weapons/glass_blade",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "glass_cutlass",
+        "tex":  "weapons/glass_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "glass_kunai",
+        "tex":  "weapons/glass_kunai",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_glass_kunai",
+        "tex":  "weapons/glass_kunai",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "glass_dagger",
+        "tex":  "weapons/glass_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_glass_dagger",
+        "tex":  "weapons/glass_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "crystal_spear",
+        "tex":  "weapons/crystal_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "hunter_knife",
+        "tex":  "weapons/hunter_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_hunter_knife",
+        "tex":  "weapons/hunter_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "spirit_knife",
+        "tex":  "weapons/spirit_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_spirit_knife",
+        "tex":  "weapons/spirit_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "eternal_knife",
+        "tex":  "weapons/eternal_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_eternal_knife",
+        "tex":  "weapons/eternal_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_dagger",
+        "tex":  "weapons/dark_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_dark_dagger",
+        "tex":  "weapons/dark_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_fang",
+        "tex":  "weapons/silver_fang",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_silver_fang",
+        "tex":  "weapons/silver_fang",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "earth_shard",
+        "tex":  "weapons/earth_shard",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_earth_shard",
+        "tex":  "weapons/earth_shard",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "livid_dagger",
+        "tex":  "weapons/livid_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_livid_dagger",
+        "tex":  "weapons/livid_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "amorth_dagger",
+        "tex":  "weapons/amorth_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_amorth_dagger",
+        "tex":  "weapons/amorth_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "barrow_dagger",
+        "tex":  "weapons/barrow_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_barrow_dagger",
+        "tex":  "weapons/barrow_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "basrol_dagger",
+        "tex":  "weapons/basrol_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_basrol_dagger",
+        "tex":  "weapons/basrol_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "bluesteel_dagger",
+        "tex":  "weapons/bluesteel_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_bluesteel_dagger",
+        "tex":  "weapons/bluesteel_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "corsair_dagger",
+        "tex":  "weapons/corsair_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_corsair_dagger",
+        "tex":  "weapons/corsair_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cutlin_dagger",
+        "tex":  "weapons/cutlin_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_cutlin_dagger",
+        "tex":  "weapons/cutlin_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cystel_dagger",
+        "tex":  "weapons/cystel_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_cystel_dagger",
+        "tex":  "weapons/cystel_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "daedra_dagger",
+        "tex":  "weapons/daedra_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_daedra_dagger",
+        "tex":  "weapons/daedra_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dale_dagger",
+        "tex":  "weapons/dale_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_dale_dagger",
+        "tex":  "weapons/dale_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dated_dagger",
+        "tex":  "weapons/dated_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_dated_dagger",
+        "tex":  "weapons/dated_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "doltek_dagger",
+        "tex":  "weapons/doltek_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_doltek_dagger",
+        "tex":  "weapons/doltek_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dyvel_dagger",
+        "tex":  "weapons/dyvel_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_dyvel_dagger",
+        "tex":  "weapons/dyvel_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "invar_dagger",
+        "tex":  "weapons/invar_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_invar_dagger",
+        "tex":  "weapons/invar_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "kevlo_dagger",
+        "tex":  "weapons/kevlo_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_kevlo_dagger",
+        "tex":  "weapons/kevlo_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "light_dagger",
+        "tex":  "weapons/light_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_light_dagger",
+        "tex":  "weapons/light_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_dagger",
+        "tex":  "weapons/orc_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_orc_dagger",
+        "tex":  "weapons/orc_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "primal_dagger",
+        "tex":  "weapons/primal_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_primal_dagger",
+        "tex":  "weapons/primal_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rol_dagger",
+        "tex":  "weapons/rol_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_rol_dagger",
+        "tex":  "weapons/rol_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ronin_dagger",
+        "tex":  "weapons/ronin_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_ronin_dagger",
+        "tex":  "weapons/ronin_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rustic_dagger",
+        "tex":  "weapons/rustic_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_rustic_dagger",
+        "tex":  "weapons/rustic_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_dagger",
+        "tex":  "weapons/silver_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_silver_dagger",
+        "tex":  "weapons/silver_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "sinbar_dagger",
+        "tex":  "weapons/sinbar_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_sinbar_dagger",
+        "tex":  "weapons/sinbar_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "troy_dagger",
+        "tex":  "weapons/troy_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_troy_dagger",
+        "tex":  "weapons/troy_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "vulcan_dagger",
+        "tex":  "weapons/vulcan_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_vulcan_dagger",
+        "tex":  "weapons/vulcan_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wildscum_dagger",
+        "tex":  "weapons/wildscum_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_wildscum_dagger",
+        "tex":  "weapons/wildscum_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "obsidian_dagger",
+        "tex":  "weapons/obsidian_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_obsidian_dagger",
+        "tex":  "weapons/obsidian_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "maeve_dagger",
+        "tex":  "weapons/maeve_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_maeve_dagger",
+        "tex":  "weapons/maeve_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "brass_dagger",
+        "tex":  "weapons/brass_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_brass_dagger",
+        "tex":  "weapons/brass_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cactus_knife",
+        "tex":  "weapons/cactus_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_cactus_knife",
+        "tex":  "weapons/cactus_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ritual_dagger",
+        "tex":  "weapons/ritual_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "reverse_ritual_dagger",
+        "tex":  "weapons/ritual_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "vulcan_polearm",
+        "tex":  "weapons/vulcan_polearm",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cystel_polearm",
+        "tex":  "weapons/cystel_polearm",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "elvo_polearm",
+        "tex":  "weapons/elvo_polearm",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_polearm",
+        "tex":  "weapons/orc_polearm",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rol_polearm",
+        "tex":  "weapons/rol_polearm",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_polearm",
+        "tex":  "weapons/silver_polearm",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_steel_spear",
+        "tex":  "weapons/blue_steel_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "corsair_spear",
+        "tex":  "weapons/corsair_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cutlin_spear",
+        "tex":  "weapons/cutlin_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cystel_spear",
+        "tex":  "weapons/cystel_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dale_spear",
+        "tex":  "weapons/dale_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_steel_spear",
+        "tex":  "weapons/dark_steel_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "doltek_spear",
+        "tex":  "weapons/doltek_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dyvel_spear",
+        "tex":  "weapons/dyvel_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "elvo_spear",
+        "tex":  "weapons/elvo_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "hell_spear",
+        "tex":  "weapons/hell_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "invar_spear",
+        "tex":  "weapons/invar_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jungle_spear",
+        "tex":  "weapons/jungle_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "kelvo_spear",
+        "tex":  "weapons/kelvo_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "light_spear",
+        "tex":  "weapons/light_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_spear",
+        "tex":  "weapons/orc_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "primal_spear",
+        "tex":  "weapons/primal_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rol_spear",
+        "tex":  "weapons/rol_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ronin_spear",
+        "tex":  "weapons/ronin_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rustic_spear",
+        "tex":  "weapons/rustic_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_spear",
+        "tex":  "weapons/silver_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "sinbar_spear",
+        "tex":  "weapons/sinbar_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "uruk_spear",
+        "tex":  "weapons/uruk_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "vulcan_spear",
+        "tex":  "weapons/vulcan_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wildscum_spear",
+        "tex":  "weapons/wildscum_spear",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_steel_pike",
+        "tex":  "weapons/blue_steel_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dale_pike",
+        "tex":  "weapons/dale_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "doltek_pike",
+        "tex":  "weapons/doltek_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "invar_pike",
+        "tex":  "weapons/invar_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "kevlo_pike",
+        "tex":  "weapons/kevlo_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "peldris_trident",
+        "tex":  "weapons/peldris_trident",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rock_pike",
+        "tex":  "weapons/rock_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rol_pike",
+        "tex":  "weapons/rol_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rustic_pike",
+        "tex":  "weapons/rustic_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "uruk_pike",
+        "tex":  "weapons/uruk_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "vulcan_pike",
+        "tex":  "weapons/vulcan_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wildscum_pike",
+        "tex":  "weapons/wildscum_pike",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "primal_waraxe",
+        "tex":  "weapons/primal_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "losar_waraxe",
+        "tex":  "weapons/losar_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rol_waraxe",
+        "tex":  "weapons/rol_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dale_waraxe",
+        "tex":  "weapons/dale_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "hell_waraxe",
+        "tex":  "weapons/hell_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "kevlo_waraxe",
+        "tex":  "weapons/kevlo_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_waraxe",
+        "tex":  "weapons/orc_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rock_waraxe",
+        "tex":  "weapons/rock_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ronin_waraxe",
+        "tex":  "weapons/ronin_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "uruk_waraxe",
+        "tex":  "weapons/uruk_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wildscum_waraxe",
+        "tex":  "weapons/wildscum_waraxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "raider_axe",
+        "tex":  "weapons/raider_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "revenant_pickaxe",
+        "tex":  "weapons/revenant_pickaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "woodsman",
+        "tex":  "weapons/woodsman",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_metal_axe",
+        "tex":  "weapons/dark_metal_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "floral_axe",
+        "tex":  "weapons/floral_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "leaf_axe",
+        "tex":  "weapons/leaf_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rusty_axe",
+        "tex":  "weapons/rusty_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "mythic_axe",
+        "tex":  "weapons/mythic_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "melon_dicer",
+        "tex":  "weapons/melon_dicer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blood_axe",
+        "tex":  "weapons/blood_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "darkwood_axe",
+        "tex":  "weapons/darkwood_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "mithril_pickaxe",
+        "tex":  "weapons/mithril_pickaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "mayan_pickaxe",
+        "tex":  "weapons/mayan_pickaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "heavy_axe",
+        "tex":  "weapons/heavy_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "mayan_axe",
+        "tex":  "weapons/mayan_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_steel_axe",
+        "tex":  "weapons/blue_steel_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "doltek_axe",
+        "tex":  "weapons/doltek_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "elvo_axe",
+        "tex":  "weapons/elvo_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "invar_axe",
+        "tex":  "weapons/invar_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "light_axe",
+        "tex":  "weapons/light_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "native_axe",
+        "tex":  "weapons/native_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_axe",
+        "tex":  "weapons/orc_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_axe",
+        "tex":  "weapons/silver_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "uruk_axe",
+        "tex":  "weapons/uruk_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wildscum_axe",
+        "tex":  "weapons/wildscum_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_steel__battleaxe",
+        "tex":  "weapons/blue_steel__battleaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "corsair_battleaxe",
+        "tex":  "weapons/corsair_battleaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dol_battleaxe",
+        "tex":  "weapons/dol_battleaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "doltek_battleaxe",
+        "tex":  "weapons/doltek_battleaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "elvo_battleaxe",
+        "tex":  "weapons/elvo_battleaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "hell_battleaxe",
+        "tex":  "weapons/hell_battleaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "invar_battleaxe",
+        "tex":  "weapons/invar_battleaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "pig_axe",
+        "tex":  "weapons/pig_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cow_axe",
+        "tex":  "weapons/cow_axe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "fungi_cutter",
+        "tex":  "weapons/fungi_cutter",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jungle_pickaxe",
+        "tex":  "weapons/jungle_pickaxe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_steel_hammer",
+        "tex":  "weapons/blue_steel_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cutlin_hammer",
+        "tex":  "weapons/cutlin_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "doltek_hammer",
+        "tex":  "weapons/doltek_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "elvo_hammer",
+        "tex":  "weapons/elvo_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "gondor_hammer",
+        "tex":  "weapons/gondor_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "hell_hammer",
+        "tex":  "weapons/hell_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "invar_hammer",
+        "tex":  "weapons/invar_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "kevlo_hammer",
+        "tex":  "weapons/kevlo_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_hammer",
+        "tex":  "weapons/orc_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rock_hammer",
+        "tex":  "weapons/rock_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "uruk_hammer",
+        "tex":  "weapons/uruk_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wildscum_hammer",
+        "tex":  "weapons/wildscum_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "amethyst_sword",
+        "tex":  "weapons/amethyst_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dragon_sword",
+        "tex":  "weapons/dragon_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "resin_sword",
+        "tex":  "weapons/resin_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cleaver",
+        "tex":  "weapons/cleaver",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "edible_mace",
+        "tex":  "weapons/edible_mace",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ember_mace",
+        "tex":  "weapons/ember_mace",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "emerald_sword",
+        "tex":  "weapons/emerald_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "endstone_sword",
+        "tex":  "weapons/endstone_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_metal_sword",
+        "tex":  "weapons/dark_metal_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "onyx_sword",
+        "tex":  "weapons/onyx_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ivar_sword",
+        "tex":  "weapons/ivar_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "flame_sword",
+        "tex":  "weapons/flame_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "golem_sword",
+        "tex":  "weapons/golem_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "kitchen_knife",
+        "tex":  "weapons/kitchen_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "spider_sword",
+        "tex":  "weapons/spider_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "holy_sword",
+        "tex":  "weapons/holy_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "bronze_cutlass",
+        "tex":  "weapons/bronze_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "prismarine_sword",
+        "tex":  "weapons/prismarine_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "midnight_fang",
+        "tex":  "weapons/midnight_fang",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rogue_sword",
+        "tex":  "weapons/rogue_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "scorpion_foil",
+        "tex":  "weapons/scorpion_foil",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "shaman_sword",
+        "tex":  "weapons/shaman_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silk_edge",
+        "tex":  "weapons/silk_edge",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "zero_sword",
+        "tex":  "weapons/zero_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "tactical_sword",
+        "tex":  "weapons/tactical_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "undead_sword",
+        "tex":  "weapons/undead_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ice_sword",
+        "tex":  "weapons/ice_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "crimson_cutlass",
+        "tex":  "weapons/crimson_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "golden_cutlass",
+        "tex":  "weapons/golden_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "void_sword",
+        "tex":  "weapons/void_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "fury_sword",
+        "tex":  "weapons/fury_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "chaos_sword",
+        "tex":  "weapons/chaos_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "aspect_sword",
+        "tex":  "weapons/aspect_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "fiery_wand",
+        "tex":  "weapons/fiery_wand",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jade_dagger",
+        "tex":  "weapons/jade_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_steel_sword",
+        "tex":  "weapons/dark_steel_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_rapier",
+        "tex":  "weapons/silver_rapier",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ingite",
+        "tex":  "weapons/ingite",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "golem_sword_2",
+        "tex":  "weapons/golem_sword_2",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "thorn_knife",
+        "tex":  "weapons/thorn_knife",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "leaping_sword",
+        "tex":  "weapons/leaping_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "glass_reaper",
+        "tex":  "weapons/glass_reaper",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "something_sword",
+        "tex":  "weapons/something_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "casian",
+        "tex":  "weapons/casian",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "prismarine_cutlass",
+        "tex":  "weapons/prismarine_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "sacred_reaper",
+        "tex":  "weapons/sacred_reaper",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "revenant_sword",
+        "tex":  "weapons/revenant_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "injection",
+        "tex":  "weapons/injection",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "white_light",
+        "tex":  "weapons/white_light",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "weaver_sword",
+        "tex":  "weapons/weaver_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rotten_sword",
+        "tex":  "weapons/rotten_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ooze_sword",
+        "tex":  "weapons/ooze_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "crystal_sword",
+        "tex":  "weapons/crystal_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "energy_saber",
+        "tex":  "weapons/energy_saber",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "trinity_wand",
+        "tex":  "weapons/trinity_wand",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "astraea",
+        "tex":  "weapons/astraea",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dreadlord_sword",
+        "tex":  "weapons/dreadlord_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "fel_sword",
+        "tex":  "weapons/fel_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "hyperion",
+        "tex":  "weapons/hyperion",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "necromancer_sword",
+        "tex":  "weapons/necromancer_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "necron_blade",
+        "tex":  "weapons/necron_blade",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silent_death",
+        "tex":  "weapons/silent_death",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "knight_cutlass",
+        "tex":  "weapons/knight_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "poison_cutlass",
+        "tex":  "weapons/poison_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cryptic_sword",
+        "tex":  "weapons/cryptic_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "the_necromancer",
+        "tex":  "weapons/the_necromancer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "earth_sword",
+        "tex":  "weapons/earth_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "forest_roots",
+        "tex":  "weapons/forest_roots",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "the_vampire",
+        "tex":  "weapons/the_vampire",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blacksmith_hammer",
+        "tex":  "weapons/blacksmith_hammer",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "amorth_sword",
+        "tex":  "weapons/amorth_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_steel_sword",
+        "tex":  "weapons/blue_steel_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "brass_sword",
+        "tex":  "weapons/brass_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "corsair_sword",
+        "tex":  "weapons/corsair_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cystel_sword",
+        "tex":  "weapons/cystel_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dale_sword",
+        "tex":  "weapons/dale_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_steel_sword_2",
+        "tex":  "weapons/dark_steel_sword_2",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "doltek_sword",
+        "tex":  "weapons/doltek_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dyvel_sword",
+        "tex":  "weapons/dyvel_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "elvo_sword",
+        "tex":  "weapons/elvo_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "glamdo_sword",
+        "tex":  "weapons/glamdo_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "gondor_sword",
+        "tex":  "weapons/gondor_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "heavy_orc_sword",
+        "tex":  "weapons/heavy_orc_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "hell_sword",
+        "tex":  "weapons/hell_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "invar_sword",
+        "tex":  "weapons/invar_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jungle_sword",
+        "tex":  "weapons/jungle_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "kevlo_sword",
+        "tex":  "weapons/kevlo_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "light_silver_sword",
+        "tex":  "weapons/light_silver_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "light_sword",
+        "tex":  "weapons/light_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rol_sword",
+        "tex":  "weapons/rol_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ronin_sword",
+        "tex":  "weapons/ronin_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rustic_sword",
+        "tex":  "weapons/rustic_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_sword",
+        "tex":  "weapons/silver_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "sinbar_sword",
+        "tex":  "weapons/sinbar_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "sinbar_sword_2",
+        "tex":  "weapons/sinbar_sword_2",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wildscum_sword",
+        "tex":  "weapons/wildscum_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "vulcan_scimitar",
+        "tex":  "weapons/vulcan_scimitar",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cutlin_scimitar",
+        "tex":  "weapons/cutlin_scimitar",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_scimitar",
+        "tex":  "weapons/orc_scimitar",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_scimitar_2",
+        "tex":  "weapons/orc_scimitar_2",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rock_scimitar",
+        "tex":  "weapons/rock_scimitar",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rustic_sickle",
+        "tex":  "weapons/rustic_sickle",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "black_steel_mace",
+        "tex":  "weapons/black_steel_mace",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rock_mace",
+        "tex":  "weapons/rock_mace",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "burnt_mace",
+        "tex":  "weapons/burnt_mace",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "vulcan_mace",
+        "tex":  "weapons/vulcan_mace",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "sauro_mace",
+        "tex":  "weapons/sauro_mace",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "vorpal_katana",
+        "tex":  "weapons/vorpal_katana",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "conjuring",
+        "tex":  "weapons/conjuring",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ruin_dagger",
+        "tex":  "weapons/ruin_dagger",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "valkyrie",
+        "tex":  "weapons/valkyrie",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_cutlass",
+        "tex":  "weapons/silver_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "revenant",
+        "tex":  "weapons/revenant",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "warped_sword",
+        "tex":  "weapons/warped_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wither_cloak_sword",
+        "tex":  "weapons/wither_cloak_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "crypt_sword",
+        "tex":  "weapons/crypt_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blaze_sword",
+        "tex":  "weapons/blaze_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "nether_soul_sword",
+        "tex":  "weapons/nether_soul_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "atonement",
+        "tex":  "weapons/atonement",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "valonite_sword",
+        "tex":  "weapons/valonite_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "corrosive_sword",
+        "tex":  "weapons/corrosive_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "kuruzi_bat",
+        "tex":  "weapons/kuruzi_bat",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "nether_cutlass",
+        "tex":  "weapons/nether_cutlass",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "light_katana",
+        "tex":  "weapons/light_katana",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jungle_katana",
+        "tex":  "weapons/jungle_katana",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wildscum_katana",
+        "tex":  "weapons/wildscum_katana",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dreadlord_broadsword",
+        "tex":  "weapons/dreadlord_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "fel_broadsword",
+        "tex":  "weapons/fel_sword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "amorth_broadsword",
+        "tex":  "weapons/amorth_broadsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cystel_broadsword",
+        "tex":  "weapons/cystel_broadsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "gondor_broadsword",
+        "tex":  "weapons/gondor_broadsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "kevlo_broadsword",
+        "tex":  "weapons/kevlo_broadsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_broadsword",
+        "tex":  "weapons/orc_broadsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rock_broadsword",
+        "tex":  "weapons/rock_broadsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_broadsword",
+        "tex":  "weapons/silver_broadsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "sinbar_broadsword",
+        "tex":  "weapons/sinbar_broadsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "uruk_broadsword",
+        "tex":  "weapons/uruk_broadsword",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "leaf_staff",
+        "tex":  "weapons/leaf_staff",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jungle_staff",
+        "tex":  "weapons/jungle_staff",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "light_staff",
+        "tex":  "weapons/light_staff",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blood_scythe",
+        "tex":  "weapons/blood_scythe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ice_scyte",
+        "tex":  "weapons/ice_scyte",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "frozen_scythe",
+        "tex":  "weapons/frozen_scythe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "energy_scyte",
+        "tex":  "weapons/energy_scyte",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "mayan_scythe",
+        "tex":  "weapons/mayan_scythe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "carrot_scythe",
+        "tex":  "weapons/carrot_scythe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "mythic_scythe",
+        "tex":  "weapons/mythic_scythe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "newton_scythe",
+        "tex":  "weapons/newton_scythe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "evil_scythe",
+        "tex":  "weapons/evil_scythe",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "crook",
+        "tex":  "weapons/crook",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "soul_crook",
+        "tex":  "weapons/soul_crook",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "quartz_claw",
+        "tex":  "weapons/quartz_claw",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "gold_claws",
+        "tex":  "weapons/gold_claws",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "serrated_claws",
+        "tex":  "weapons/serrated_claws",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "iron_claws",
+        "tex":  "weapons/iron_claws",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_metal_bow",
+        "tex":  "bows/dark_metal_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "death_bow",
+        "tex":  "bows/death_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "end_stone_bow",
+        "tex":  "bows/end_stone_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "explosive_bow",
+        "tex":  "bows/explosive_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "hurricane_bow",
+        "tex":  "bows/hurricane_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "magma_bow",
+        "tex":  "bows/magma_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "mosquito_bow",
+        "tex":  "bows/mosquito_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "scorpion_bow",
+        "tex":  "bows/scorpion_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "spider_bow",
+        "tex":  "bows/spider_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "reaper_bow",
+        "tex":  "bows/reaper_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "cryptic_bow",
+        "tex":  "bows/cryptic_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "sniper_bow",
+        "tex":  "bows/sniper_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "soulstealer_bow",
+        "tex":  "bows/soulstealer_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "spirit_bow",
+        "tex":  "bows/spirit_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "undead_bow",
+        "tex":  "bows/undead_bow",
+        "tab":  "weapons",
+        "kind":  "bow"
+    },
+    {
+        "name":  "blackstone_shield",
+        "tex":  "weapons/shields/blackstone_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "blue_steel_shield",
+        "tex":  "weapons/shields/blue_steel_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "brass_shield",
+        "tex":  "weapons/shields/brass_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "constellas_shield",
+        "tex":  "weapons/shields/constellas_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "copper_shield",
+        "tex":  "weapons/shields/copper_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "corsair_shield",
+        "tex":  "weapons/shields/corsair_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "cutlin_shield",
+        "tex":  "weapons/shields/cutlin_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_shield",
+        "tex":  "weapons/shields/dark_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dark_steel_shield",
+        "tex":  "weapons/shields/dark_steel_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "deep_shield",
+        "tex":  "weapons/shields/deep_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "dread_shield",
+        "tex":  "weapons/shields/dread_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "electrum_shield",
+        "tex":  "weapons/shields/electrum_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "elementium_shield",
+        "tex":  "weapons/shields/elementium_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "elvo_shield",
+        "tex":  "weapons/shields/elvo_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "ender_shield",
+        "tex":  "weapons/shields/ender_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "flux_shield",
+        "tex":  "weapons/shields/flux_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "gold_shield",
+        "tex":  "weapons/shields/gold_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "hard_diamond_shield",
+        "tex":  "weapons/shields/hard_diamond_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "heavy_shield",
+        "tex":  "weapons/shields/heavy_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "heavy_stone_shield",
+        "tex":  "weapons/shields/heavy_stone_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "invar_shield",
+        "tex":  "weapons/shields/invar_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "jungle_shield",
+        "tex":  "weapons/shields/jungle_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "knight_shield",
+        "tex":  "weapons/shields/knight_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "koi_shield",
+        "tex":  "weapons/shields/koi_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "lapis_shield",
+        "tex":  "weapons/shields/lapis_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "lead_shield",
+        "tex":  "weapons/shields/lead_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "light_shield",
+        "tex":  "weapons/shields/light_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "manasteel_shield",
+        "tex":  "weapons/shields/manasteel_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "obsidian_shield",
+        "tex":  "weapons/shields/obsidian_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "orc_shield",
+        "tex":  "weapons/shields/orc_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "platinum_shield",
+        "tex":  "weapons/shields/platinum_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "primal_shield",
+        "tex":  "weapons/shields/primal_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rock_shield",
+        "tex":  "weapons/shields/rock_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rol_shield",
+        "tex":  "weapons/shields/rol_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rose_shield",
+        "tex":  "weapons/shields/rose_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "royal_shield",
+        "tex":  "weapons/shields/royal_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "rune_shield",
+        "tex":  "weapons/shields/rune_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "sandstone_shield",
+        "tex":  "weapons/shields/sandstone_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "signalum_shield",
+        "tex":  "weapons/shields/signalum_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "silver_shield",
+        "tex":  "weapons/shields/silver_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "sinbar_shield",
+        "tex":  "weapons/shields/sinbar_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "spectral_shield",
+        "tex":  "weapons/shields/spectral_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "steel_shield",
+        "tex":  "weapons/shields/steel_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "stone_shield",
+        "tex":  "weapons/shields/stone_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "terrasteel_shield",
+        "tex":  "weapons/shields/terrasteel_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "tin_shield",
+        "tex":  "weapons/shields/tin_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "turtle_shield",
+        "tex":  "weapons/shields/turtle_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "uruk_shield",
+        "tex":  "weapons/shields/uruk_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "void_shield",
+        "tex":  "weapons/shields/void_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "wood_shield",
+        "tex":  "weapons/shields/wood_shield",
+        "tab":  "weapons",
+        "kind":  "weapon"
+    },
+    {
+        "name":  "codium_ingot",
+        "tex":  "materials/codium_ingot",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "damascus_ingot",
+        "tex":  "materials/damascus_ingot",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "deep_ingot",
+        "tex":  "materials/deep_ingot",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "energy_quartz",
+        "tex":  "materials/energy_quartz",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_metal",
+        "tex":  "materials/dark_metal_ingot",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "blue_steel",
+        "tex":  "materials/blue_steel",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "jungle_ingot",
+        "tex":  "materials/jungle_ingot",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "glass_shard",
+        "tex":  "materials/glass_shard",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "imperial_gold",
+        "tex":  "materials/imperial_gold",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "aqua_ingot",
+        "tex":  "materials/aqua_ingot",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "plug_ingot",
+        "tex":  "materials/plug_ingot",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "blue_longsword_custom_blade",
+        "tex":  "weapons/parts/blue_longsword_blade",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "blue_longsword_custom_guard",
+        "tex":  "weapons/parts/blue_longsword_guard",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "blue_longsword_custom_rod",
+        "tex":  "weapons/parts/blue_longsword_rod",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_dagger_custom_blade",
+        "tex":  "weapons/parts/dark_dagger_custom_blade",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_dagger_custom_handle",
+        "tex":  "weapons/parts/dark_dagger_custom_handle",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "void_charm",
+        "tex":  "weapons/parts/void_charm",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "glass_disc",
+        "tex":  "weapons/parts/glass_disc",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "glass_pan_handle",
+        "tex":  "weapons/parts/glass_pan_handle",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "glass_pan_binding",
+        "tex":  "weapons/parts/glass_pan_binding",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "jungle_axe_head",
+        "tex":  "weapons/parts/jungle_axe_head",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "jungle_axe_binding",
+        "tex":  "weapons/parts/jungle_axe_binding",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "jungle_axe_rod",
+        "tex":  "weapons/parts/jungle_axe_rod",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "treasure_cutlass_blade",
+        "tex":  "weapons/parts/treasure_cutlass_blade",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "treasure_cutlass_binding",
+        "tex":  "weapons/parts/treasure_cutlass_binding",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "treasure_cutlass_handle",
+        "tex":  "weapons/parts/treasure_cutlass_handle",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "adaptors_spear_point",
+        "tex":  "weapons/parts/adaptors_spear_point",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "adaptors_spear_binding",
+        "tex":  "weapons/parts/adaptors_spear_binding",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "adaptors_spear_handle",
+        "tex":  "weapons/parts/adaptors_spear_handle",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "voidrasenshuriken",
+        "tex":  "energy/voidrasenshuriken",
+        "tab":  "weapons",
+        "kind":  "simple"
+    },
+    {
+        "name":  "massiverasengan",
+        "tex":  "energy/massive_rasengan",
+        "tab":  "weapons",
+        "kind":  "simple"
+    },
+    {
+        "name":  "massiverasengan_spin",
+        "tex":  "energy/massive_rasengan_spin",
+        "tab":  "weapons",
+        "kind":  "simple"
+    },
+    {
+        "name":  "treasuremap",
+        "tex":  "extra/treasuremap",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "paperbomb",
+        "tex":  "weapons/paperbomb",
+        "tab":  "weapons",
+        "kind":  "simple"
+    },
+    {
+        "name":  "medkit",
+        "tex":  "extra/medkit",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "bandages",
+        "tex":  "extra/bandages",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "bell",
+        "tex":  "extra/bell",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "energy_catalyst",
+        "tex":  "materials/catalyst",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hyper_catalyst",
+        "tex":  "materials/hyper_catalyst",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "horn",
+        "tex":  "extra/horn",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "rope",
+        "tex":  "extra/rope",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "painkiller",
+        "tex":  "extra/painkiller",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "burrito",
+        "tex":  "extra/burrito",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "cardicon",
+        "tex":  "cards/plugcard",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_basic",
+        "tex":  "pills/pills_basic",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_advanced",
+        "tex":  "pills/pills_advanced",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_pioneer",
+        "tex":  "pills/pills_pioneer",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_expertise",
+        "tex":  "pills/pills_expertise",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_arcane",
+        "tex":  "pills/pills_arcane",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_mystical",
+        "tex":  "pills/pills_mystical",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_godly",
+        "tex":  "pills/pills_godly",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_split",
+        "tex":  "pills/pills_split",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_fissure",
+        "tex":  "pills/pills_fissure",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_shift",
+        "tex":  "pills/pills_shift",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_aqua",
+        "tex":  "pills/pills_aqua",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_aura",
+        "tex":  "pills/pills_aura",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_core",
+        "tex":  "pills/pills_core",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_corrupt",
+        "tex":  "pills/pills_corrupt",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_dark",
+        "tex":  "pills/pills_dark",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_fiery",
+        "tex":  "pills/pills_fiery",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_freeze",
+        "tex":  "pills/pills_freeze",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_heart",
+        "tex":  "pills/pills_heart",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_rebound",
+        "tex":  "pills/pills_rebound",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_spirit",
+        "tex":  "pills/pills_spirit",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_nature",
+        "tex":  "pills/pills_nature",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_desert",
+        "tex":  "pills/pills_desert",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_magma",
+        "tex":  "pills/pills_magma",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extraone",
+        "tex":  "pills/pills_extraone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extratwo",
+        "tex":  "pills/pills_extratwo",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extrathree",
+        "tex":  "pills/pills_extrathree",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extrafour",
+        "tex":  "pills/pills_extrafour",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extrafive",
+        "tex":  "pills/pills_extrafive",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extrasix",
+        "tex":  "pills/pills_extrasix",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extraseven",
+        "tex":  "pills/pills_extraseven",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extraeight",
+        "tex":  "pills/pills_extraeight",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extranine",
+        "tex":  "pills/pills_extranine",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_extraten",
+        "tex":  "pills/pills_extraten",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_native",
+        "tex":  "pills/pills_native",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_foreign",
+        "tex":  "pills/pills_foreign",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pills_auraenergy",
+        "tex":  "pills/pills_auraenergy",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_wood",
+        "tex":  "coins/coins_wood",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_stone",
+        "tex":  "coins/coins_stone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_zinc",
+        "tex":  "coins/coins_zinc",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_bronze",
+        "tex":  "coins/coins_bronze",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_obsidian",
+        "tex":  "coins/coins_obsidian",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_iron",
+        "tex":  "coins/coins_iron",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_gold",
+        "tex":  "coins/coins_gold",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_platinum",
+        "tex":  "coins/coins_platinum",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_emerald",
+        "tex":  "coins/coins_emerald",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_ruby",
+        "tex":  "coins/coins_ruby",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_diamond",
+        "tex":  "coins/coins_diamond",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_amethyst",
+        "tex":  "coins/coins_amethyst",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_earth",
+        "tex":  "coins/coins_earth",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_amethyst",
+        "tex":  "coins/coins_other_amethyst",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_bronze",
+        "tex":  "coins/coins_other_bronze",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_cobalt",
+        "tex":  "coins/coins_other_cobalt",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_diamond",
+        "tex":  "coins/coins_other_diamond",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_emerald",
+        "tex":  "coins/coins_other_emerald",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_gold",
+        "tex":  "coins/coins_other_gold",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_iron",
+        "tex":  "coins/coins_other_iron",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_obsidian",
+        "tex":  "coins/coins_other_obsidian",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_rose",
+        "tex":  "coins/coins_other_rose",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_ruby",
+        "tex":  "coins/coins_other_ruby",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other_wood",
+        "tex":  "coins/coins_other_wood",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other2_dark_steel",
+        "tex":  "coins/coins_other2_dark_steel",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other2_bronze",
+        "tex":  "coins/coins_other2_bronze",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other2_diamond",
+        "tex":  "coins/coins_other2_diamond",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other2_ruby",
+        "tex":  "coins/coins_other2_ruby",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other2_silver",
+        "tex":  "coins/coins_other2_silver",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other2_copper",
+        "tex":  "coins/coins_other2_copper",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other2_emerald",
+        "tex":  "coins/coins_other2_emerald",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "coins_other2_gold",
+        "tex":  "coins/coins_other2_gold",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "balls_one",
+        "tex":  "balls/balls_one",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "balls_two",
+        "tex":  "balls/balls_two",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "balls_three",
+        "tex":  "balls/balls_three",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "balls_four",
+        "tex":  "balls/balls_four",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "balls_five",
+        "tex":  "balls/balls_five",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "balls_six",
+        "tex":  "balls/balls_six",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "balls_seven",
+        "tex":  "balls/balls_seven",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "eyes_sharinganone",
+        "tex":  "eyes/eyes_sharinganone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "eyes_sharingantwo",
+        "tex":  "eyes/eyes_sharingantwo",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "eyes_sharinganthree",
+        "tex":  "eyes/eyes_sharinganthree",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "eyes_byakugan",
+        "tex":  "eyes/eyes_byakugan",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "eyes_rinnegan",
+        "tex":  "eyes/eyes_rinnegan",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "classic_apple",
+        "tex":  "apples/classic_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "founding_apple",
+        "tex":  "apples/founding_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "vintage_apple",
+        "tex":  "apples/vintage_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "rage_apple",
+        "tex":  "apples/rage_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "mend_apple",
+        "tex":  "apples/mend_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "shield_apple",
+        "tex":  "apples/shield_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "buffer_apple",
+        "tex":  "apples/buffer_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "swift_apple",
+        "tex":  "apples/swift_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "boost_apple",
+        "tex":  "apples/boost_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "alert_apple",
+        "tex":  "apples/alert_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "element_apple",
+        "tex":  "apples/element_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "full_apple",
+        "tex":  "apples/full_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "drunk_apple",
+        "tex":  "apples/drunk_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "tank_apple",
+        "tex":  "apples/tank_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "rotten_apple",
+        "tex":  "apples/rotten_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "corrupt_apple",
+        "tex":  "apples/corrupt_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "reinforced_apple",
+        "tex":  "apples/reinforced_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "toxic_apple",
+        "tex":  "apples/toxic_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "odd_apple",
+        "tex":  "apples/odd_apple",
+        "tab":  "misc",
+        "kind":  "food"
+    },
+    {
+        "name":  "artifact_stoneegg",
+        "tex":  "artifacts/artifact_stoneegg",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_primary",
+        "tex":  "artifacts/artifact_primary",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_amulet",
+        "tex":  "artifacts/artifact_amulet",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_book",
+        "tex":  "artifacts/artifact_book",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_totem",
+        "tex":  "artifacts/artifact_totem",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_necklace",
+        "tex":  "artifacts/artifact_necklace",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_doll",
+        "tex":  "artifacts/artifact_doll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_tooth",
+        "tex":  "artifacts/artifact_tooth",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_trinity",
+        "tex":  "artifacts/artifact_trinity",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_resonant_pearl",
+        "tex":  "artifacts/artifact_resonant_pearl",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_energy_amplifier",
+        "tex":  "artifacts/artifact_energy_amplifier",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_divinity",
+        "tex":  "artifacts/artifact_divinity",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_magic_stew",
+        "tex":  "artifacts/artifact_magic_stew",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "artifact_luck",
+        "tex":  "artifacts/artifact_luck",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "void_lasso",
+        "tex":  "artifacts/void_lasso",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_orb",
+        "tex":  "artifacts/dark_orb",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_atom",
+        "tex":  "artifacts/diamond_atom",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dungeon_chest_key",
+        "tex":  "artifacts/dungeon_chest_key",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "seal_scroll",
+        "tex":  "artifacts/seal_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "charge_crystal",
+        "tex":  "artifacts/charge_crystal",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "journal_entry",
+        "tex":  "artifacts/journal_entry",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "eyes_of_remnant",
+        "tex":  "artifacts/eyes_of_remnant",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "lasr_eye",
+        "tex":  "artifacts/lasr_eye",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_pendant",
+        "tex":  "artifacts/dark_pendant",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "magical_map",
+        "tex":  "artifacts/magical_map",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "mimic_fragment",
+        "tex":  "artifacts/mimic_fragment",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ward",
+        "tex":  "artifacts/ward",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "chalice",
+        "tex":  "artifacts/chalice",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "warped_stone",
+        "tex":  "artifacts/warped_stone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "health_cube",
+        "tex":  "artifacts/health_cube",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "power_cube",
+        "tex":  "artifacts/power_cube",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "poison_cube",
+        "tex":  "artifacts/poison_cube",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "midas_jewel",
+        "tex":  "artifacts/midas_jewel",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "necromancer",
+        "tex":  "artifacts/necromancer",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ancient_rose",
+        "tex":  "artifacts/ancient_rose",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "shark_fin",
+        "tex":  "artifacts/shark_fin",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "shark_necklace",
+        "tex":  "artifacts/shark_necklace",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "villium",
+        "tex":  "artifacts/villium",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "glacite_jewel",
+        "tex":  "artifacts/glacite_jewel",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "goblin_egg",
+        "tex":  "artifacts/goblin_egg",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "petrified_stone",
+        "tex":  "artifacts/petrified_stone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "crystal_geode",
+        "tex":  "artifacts/crystal_geode",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "plasma_nucleus",
+        "tex":  "artifacts/plasma_nucleus",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "kat_flower",
+        "tex":  "artifacts/kat_flower",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "balance_scroll",
+        "tex":  "artifacts/balance_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_scroll",
+        "tex":  "artifacts/dark_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "demon_scroll",
+        "tex":  "artifacts/demon_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "gold_scroll",
+        "tex":  "artifacts/gold_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "precursor_gem",
+        "tex":  "artifacts/precursor_gem",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "sorrow",
+        "tex":  "artifacts/sorrow",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "zem_orb",
+        "tex":  "artifacts/zem_orb",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "forbidden_flower",
+        "tex":  "artifacts/forbidden_flower",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spirit_leap",
+        "tex":  "artifacts/spirit_leap",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "blood_skull",
+        "tex":  "artifacts/blood_skull",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "master_skull",
+        "tex":  "artifacts/master_skull",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "krodo_orb",
+        "tex":  "artifacts/krodo_orb",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "golden_lasso",
+        "tex":  "artifacts/golden_lasso",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "heat_core",
+        "tex":  "artifacts/heat_core",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "codex",
+        "tex":  "artifacts/codex",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "poison_blob",
+        "tex":  "artifacts/poison_blob",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "void_scroll",
+        "tex":  "artifacts/void_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "blue_blood",
+        "tex":  "artifacts/blue_blood",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "red_scarf",
+        "tex":  "artifacts/red_scarf",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "veskin_hide",
+        "tex":  "artifacts/veskin_hide",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "crimson_vortex",
+        "tex":  "artifacts/crimson_vortex",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "saving_grace",
+        "tex":  "artifacts/saving_grace",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "bonzo_fragment",
+        "tex":  "artifacts/bonzo_fragment",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "livid_fragment",
+        "tex":  "artifacts/livid_fragment",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "prehistoric_egg",
+        "tex":  "artifacts/prehistoric_egg",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "queen_soul",
+        "tex":  "artifacts/queen_soul",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "aspiring_leap",
+        "tex":  "artifacts/aspiring_leap",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "reaper_orb",
+        "tex":  "artifacts/reaper_orb",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hidden_zone",
+        "tex":  "artifacts/hidden_zone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "lucky_dice",
+        "tex":  "artifacts/lucky_dice",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "moon_gem",
+        "tex":  "artifacts/moon_gem",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "holy_stone",
+        "tex":  "artifacts/holy_stone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_auction",
+        "tex":  "artifacts/dark_auction",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "magma_bucket",
+        "tex":  "artifacts/magma_bucket",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "corleonite",
+        "tex":  "artifacts/corleonite",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "jungle_heart",
+        "tex":  "artifacts/jungle_heart",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "wither_catalyst",
+        "tex":  "artifacts/wither_catalyst",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "lava_catalyst",
+        "tex":  "artifacts/lava_catalyst",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "bountytrophy",
+        "tex":  "artifacts/bountytrophy",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "chilling",
+        "tex":  "artifacts/chilling",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "stew_1",
+        "tex":  "artifacts/stew_1",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "stew_2",
+        "tex":  "artifacts/stew_2",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "flax",
+        "tex":  "artifacts/flax",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "gobletsilver",
+        "tex":  "artifacts/gobletsilver",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "gobletwood",
+        "tex":  "artifacts/gobletwood",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "green_quartz",
+        "tex":  "artifacts/green_quartz",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "rainbow_feather",
+        "tex":  "artifacts/rainbow_feather",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "warp_gate",
+        "tex":  "artifacts/warp_gate",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "net_ball",
+        "tex":  "artifacts/net_ball",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "grimoire",
+        "tex":  "artifacts/grimoire",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "soul_crystal",
+        "tex":  "artifacts/soul_crystal",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "judgement_core",
+        "tex":  "artifacts/judgement_core",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "reaper_gem",
+        "tex":  "artifacts/reaper_gem",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dead_catalyst",
+        "tex":  "artifacts/dead_catalyst",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ocean_orb",
+        "tex":  "artifacts/ocean_orb",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "abyssal_fruit",
+        "tex":  "artifacts/abyssal_fruit",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "forge_stone",
+        "tex":  "artifacts/forge_stone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "rare_amber",
+        "tex":  "artifacts/rare_amber",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "amulet_of_cosolon",
+        "tex":  "artifacts/amulet_of_cosolon",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "angel_blessing",
+        "tex":  "artifacts/angel_blessing",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "anti_fear",
+        "tex":  "artifacts/anti_fear",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "after_gem",
+        "tex":  "artifacts/after_gem",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "astral_dust",
+        "tex":  "artifacts/astral_dust",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "astral_fruit",
+        "tex":  "artifacts/astral_fruit",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "cosmic_heart",
+        "tex":  "artifacts/cosmic_heart",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "bastion_ring",
+        "tex":  "artifacts/bastion_ring",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "the_hadlium",
+        "tex":  "artifacts/the_hadlium",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "heaven_gem",
+        "tex":  "artifacts/heaven_gem",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clock_of_time",
+        "tex":  "artifacts/clock_of_time",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "cosmic_scroll",
+        "tex":  "artifacts/cosmic_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "cursed_stone",
+        "tex":  "artifacts/cursed_stone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "delay_ring",
+        "tex":  "artifacts/delay_ring",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "earth_heart",
+        "tex":  "artifacts/earth_heart",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ectoplasm",
+        "tex":  "artifacts/ectoplasm",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "enders_hand",
+        "tex":  "artifacts/enders_hand",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "enigmatic",
+        "tex":  "artifacts/enigmatic",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "evil_essence",
+        "tex":  "artifacts/evil_essence",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "anti_shuriken",
+        "tex":  "artifacts/anti_shuriken",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dimensional_eye",
+        "tex":  "artifacts/dimensional_eye",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "fiery_heart",
+        "tex":  "artifacts/fiery_heart",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "glow_cube",
+        "tex":  "artifacts/glow_cube",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "guardian_heart",
+        "tex":  "artifacts/guardian_heart",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "halo",
+        "tex":  "artifacts/halo",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "holy_locket",
+        "tex":  "artifacts/holy_locket",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ancient_flute",
+        "tex":  "artifacts/ancient_flute",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hunter_belt",
+        "tex":  "artifacts/hunter_belt",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "identify_tome",
+        "tex":  "artifacts/identify_tome",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ignis_gem",
+        "tex":  "artifacts/ignis_gem",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "infernal_shield",
+        "tex":  "artifacts/infernal_shield",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "the_infinite",
+        "tex":  "artifacts/the_infinite",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "inscriber",
+        "tex":  "artifacts/inscriber",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dead_eye",
+        "tex":  "artifacts/dead_eye",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "lore",
+        "tex":  "artifacts/lore",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "material_pouch",
+        "tex":  "artifacts/material_pouch",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "remain_charm",
+        "tex":  "artifacts/remain_charm",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "monster_charm",
+        "tex":  "artifacts/monster_charm",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "earth_necklace",
+        "tex":  "artifacts/earth_necklace",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ocean_stone",
+        "tex":  "artifacts/ocean_stone",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pot_of_greed",
+        "tex":  "artifacts/pot_of_greed",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "reflection_necklace",
+        "tex":  "artifacts/reflection_necklace",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "zindaga_orb",
+        "tex":  "artifacts/zindaga_orb",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ring_of_fire",
+        "tex":  "artifacts/ring_of_fire",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ring_of_horror",
+        "tex":  "artifacts/ring_of_horror",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "scarab_talisman",
+        "tex":  "artifacts/scarab_talisman",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "shadow_glaive",
+        "tex":  "artifacts/shadow_glaive",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "soul_devourer",
+        "tex":  "artifacts/soul_devourer",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "soul_matrix",
+        "tex":  "artifacts/soul_matrix",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spatial_sign",
+        "tex":  "artifacts/spatial_sign",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spore_sack",
+        "tex":  "artifacts/spore_sack",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "stellar_catalyst",
+        "tex":  "artifacts/stellar_catalyst",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "unwritten",
+        "tex":  "artifacts/unwritten",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "the_all_knowing",
+        "tex":  "artifacts/the_all_knowing",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "the_twist",
+        "tex":  "artifacts/the_twist",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "obsidian_skull",
+        "tex":  "artifacts/obsidian_skull",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "twisted_core",
+        "tex":  "artifacts/twisted_core",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "unholy_grail",
+        "tex":  "artifacts/unholy_grail",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "void_pearl",
+        "tex":  "artifacts/void_pearl",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "whisp_of_chaos",
+        "tex":  "artifacts/whisp_of_chaos",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "wormhole_mirror",
+        "tex":  "artifacts/wormhole_mirror",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pierce_cannon",
+        "tex":  "artifacts/pierce_cannon",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "the_dragonfly",
+        "tex":  "artifacts/the_dragonfly",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "the_urchin_of_honor",
+        "tex":  "artifacts/the_urchin_of_honor",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "tribal_chain",
+        "tex":  "artifacts/tribal_chain",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "angry_pebble",
+        "tex":  "artifacts/angry_pebble",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "bark_amulet",
+        "tex":  "artifacts/bark_amulet",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "forbidden_tag",
+        "tex":  "artifacts/forbidden_tag",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "chiromaw_barb",
+        "tex":  "artifacts/chiromaw_barb",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "chiromaw_egg",
+        "tex":  "artifacts/chiromaw_egg",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_idol",
+        "tex":  "artifacts/dark_idol",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "crazy_scroll",
+        "tex":  "artifacts/crazy_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "urn_1",
+        "tex":  "artifacts/urn_1",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "urn_2",
+        "tex":  "artifacts/urn_2",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "urn_3",
+        "tex":  "artifacts/urn_3",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "lurker_skin",
+        "tex":  "artifacts/lurker_skin",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "magic_magnet",
+        "tex":  "artifacts/magic_magnet",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "the_how",
+        "tex":  "artifacts/the_how",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "pyrad_flame",
+        "tex":  "artifacts/pyrad_flame",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ring_of_power",
+        "tex":  "artifacts/ring_of_power",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ring_of_spirit",
+        "tex":  "artifacts/ring_of_spirit",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "ring_of_summoning",
+        "tex":  "artifacts/ring_of_summoning",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "seed_of_god",
+        "tex":  "artifacts/seed_of_god",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "rune_key",
+        "tex":  "artifacts/rune_key",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "sap",
+        "tex":  "artifacts/sap",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spirit_totem",
+        "tex":  "artifacts/spirit_totem",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "swamp_talisman",
+        "tex":  "artifacts/swamp_talisman",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "amanite",
+        "tex":  "artifacts/amanite",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "beheaded_death",
+        "tex":  "artifacts/beheaded_death",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "deep_skull",
+        "tex":  "artifacts/deep_skull",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dice_of_fate",
+        "tex":  "artifacts/dice_of_fate",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dragon_egg",
+        "tex":  "artifacts/dragon_egg",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "fuming_book",
+        "tex":  "artifacts/fuming_book",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "gold_slash",
+        "tex":  "artifacts/gold_slash",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "inferno_vertex",
+        "tex":  "artifacts/inferno_vertex",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "infinileap",
+        "tex":  "artifacts/infinileap",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "infinity_catalyst",
+        "tex":  "artifacts/infinity_catalyst",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "invertus",
+        "tex":  "artifacts/invertus",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "mystic_orb",
+        "tex":  "artifacts/mystic_orb",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "overpower",
+        "tex":  "artifacts/overpower",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "something",
+        "tex":  "artifacts/something",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "soul_shard",
+        "tex":  "artifacts/soul_shard",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "soul_string",
+        "tex":  "artifacts/soul_string",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "special_candle",
+        "tex":  "artifacts/special_candle",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "split_scroll",
+        "tex":  "artifacts/split_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "subzero_inverter",
+        "tex":  "artifacts/subzero_inverter",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "teleporter_pill",
+        "tex":  "artifacts/teleporter_pill",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "tesselated_ender_pearl",
+        "tex":  "artifacts/tesselated_ender_pearl",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "thunder_shards",
+        "tex":  "artifacts/thunder_shards",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "treasure_ring",
+        "tex":  "artifacts/treasure_ring",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "trident_scroll",
+        "tex":  "artifacts/trident_scroll",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "warden_heart",
+        "tex":  "artifacts/warden_heart",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "wood_singularity",
+        "tex":  "artifacts/wood_singularity",
+        "tab":  "misc",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_rasengan",
+        "tex":  "energy/dark_rasengan",
+        "tab":  "weapons",
+        "kind":  "simple"
+    },
+    {
+        "name":  "dark_rasengan_spin",
+        "tex":  "energy/dark_rasengan_spin",
+        "tab":  "weapons",
+        "kind":  "simple"
+    },
+    {
+        "name":  "rasengan",
+        "tex":  "energy/rasengan",
+        "tab":  "weapons",
+        "kind":  "simple"
+    },
+    {
+        "name":  "rasengan_spin",
+        "tex":  "energy/rasengan_spin",
+        "tab":  "weapons",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_ace",
+        "tex":  "cards/hearts_ace",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_two",
+        "tex":  "cards/hearts_two",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_three",
+        "tex":  "cards/hearts_three",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_four",
+        "tex":  "cards/hearts_four",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_five",
+        "tex":  "cards/hearts_five",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_six",
+        "tex":  "cards/hearts_six",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_seven",
+        "tex":  "cards/hearts_seven",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_eight",
+        "tex":  "cards/hearts_eight",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_nine",
+        "tex":  "cards/hearts_nine",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_ten",
+        "tex":  "cards/hearts_ten",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_jack",
+        "tex":  "cards/hearts_jack",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_queen",
+        "tex":  "cards/hearts_queen",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "hearts_king",
+        "tex":  "cards/hearts_king",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_ace",
+        "tex":  "cards/diamond_ace",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_two",
+        "tex":  "cards/diamond_two",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_three",
+        "tex":  "cards/diamond_three",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_four",
+        "tex":  "cards/diamond_four",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_five",
+        "tex":  "cards/diamond_five",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_six",
+        "tex":  "cards/diamond_six",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_seven",
+        "tex":  "cards/diamond_seven",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_eight",
+        "tex":  "cards/diamond_eight",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_nine",
+        "tex":  "cards/diamond_nine",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_ten",
+        "tex":  "cards/diamond_ten",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_jack",
+        "tex":  "cards/diamond_jack",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_queen",
+        "tex":  "cards/diamond_queen",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "diamond_king",
+        "tex":  "cards/diamond_king",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_ace",
+        "tex":  "cards/spade_ace",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_two",
+        "tex":  "cards/spade_two",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_three",
+        "tex":  "cards/spade_three",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_four",
+        "tex":  "cards/spade_four",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_five",
+        "tex":  "cards/spade_five",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_six",
+        "tex":  "cards/spade_six",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_seven",
+        "tex":  "cards/spade_seven",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_eight",
+        "tex":  "cards/spade_eight",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_nine",
+        "tex":  "cards/spade_nine",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_ten",
+        "tex":  "cards/spade_ten",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_jack",
+        "tex":  "cards/spade_jack",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_queen",
+        "tex":  "cards/spade_queen",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "spade_king",
+        "tex":  "cards/spade_king",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_ace",
+        "tex":  "cards/clubs_ace",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_two",
+        "tex":  "cards/clubs_two",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_three",
+        "tex":  "cards/clubs_three",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_four",
+        "tex":  "cards/clubs_four",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_five",
+        "tex":  "cards/clubs_five",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_six",
+        "tex":  "cards/clubs_six",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_seven",
+        "tex":  "cards/clubs_seven",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_eight",
+        "tex":  "cards/clubs_eight",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_nine",
+        "tex":  "cards/clubs_nine",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_ten",
+        "tex":  "cards/clubs_ten",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_jack",
+        "tex":  "cards/clubs_jack",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_queen",
+        "tex":  "cards/clubs_queen",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "clubs_king",
+        "tex":  "cards/clubs_king",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "joker_red",
+        "tex":  "cards/joker_red",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "joker_black",
+        "tex":  "cards/joker_black",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "cards_whisperer",
+        "tex":  "cards/cards_whisperer",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "cards_daybreak",
+        "tex":  "cards/cards_daybreak",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "cards_awen",
+        "tex":  "cards/cards_awen",
+        "tab":  "cards",
+        "kind":  "simple"
+    },
+    {
+        "name":  "cards_radiance",
+        "tex":  "cards/cards_radiance",
+        "tab":  "cards",
+        "kind":  "simple"
+    }
+]

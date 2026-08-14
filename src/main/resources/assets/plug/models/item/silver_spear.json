@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/silver_spear"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

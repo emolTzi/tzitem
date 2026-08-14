@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/aspiring_leap"
+                 },
+    "parent":  "minecraft:item/generated"
+}

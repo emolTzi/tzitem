@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/diamond_atom"
+                 },
+    "parent":  "minecraft:item/generated"
+}

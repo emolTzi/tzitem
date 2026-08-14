@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/materials/energy_quartz"
+                 },
+    "parent":  "minecraft:item/generated"
+}

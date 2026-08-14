@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/forest_roots"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

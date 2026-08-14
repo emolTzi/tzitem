@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/invar_battleaxe"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

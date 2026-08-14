@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/parts/blue_longsword_rod"
+                 },
+    "parent":  "minecraft:item/generated"
+}

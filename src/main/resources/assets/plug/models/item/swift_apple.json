@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/apples/swift_apple"
+                 },
+    "parent":  "minecraft:item/generated"
+}

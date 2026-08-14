@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/saving_grace"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/energy/rasengan_spin"
+                 },
+    "parent":  "minecraft:item/generated"
+}

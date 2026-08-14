@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/materials/hyper_catalyst"
+                 },
+    "parent":  "minecraft:item/generated"
+}

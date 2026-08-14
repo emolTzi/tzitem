@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/coins/coins_wood"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/subzero_inverter"
+                 },
+    "parent":  "minecraft:item/generated"
+}

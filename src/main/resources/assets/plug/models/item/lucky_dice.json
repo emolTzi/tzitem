@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/lucky_dice"
+                 },
+    "parent":  "minecraft:item/generated"
+}

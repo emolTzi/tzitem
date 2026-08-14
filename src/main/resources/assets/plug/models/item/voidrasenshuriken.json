@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/energy/voidrasenshuriken"
+                 },
+    "parent":  "minecraft:item/generated"
+}

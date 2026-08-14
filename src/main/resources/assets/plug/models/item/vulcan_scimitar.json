@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/vulcan_scimitar"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/cards/spade_nine"
+                 },
+    "parent":  "minecraft:item/generated"
+}

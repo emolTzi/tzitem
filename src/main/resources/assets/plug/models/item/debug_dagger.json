@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/debug_dagger"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

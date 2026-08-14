@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/cystel_broadsword"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

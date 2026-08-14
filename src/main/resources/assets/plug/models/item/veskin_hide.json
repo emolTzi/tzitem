@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/veskin_hide"
+                 },
+    "parent":  "minecraft:item/generated"
+}

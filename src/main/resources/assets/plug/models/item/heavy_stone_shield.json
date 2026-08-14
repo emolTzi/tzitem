@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/shields/heavy_stone_shield"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

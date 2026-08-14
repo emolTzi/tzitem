@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/parts/void_charm"
+                 },
+    "parent":  "minecraft:item/generated"
+}

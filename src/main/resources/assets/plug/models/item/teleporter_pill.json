@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/teleporter_pill"
+                 },
+    "parent":  "minecraft:item/generated"
+}

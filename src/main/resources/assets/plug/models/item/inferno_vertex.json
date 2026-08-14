@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/inferno_vertex"
+                 },
+    "parent":  "minecraft:item/generated"
+}

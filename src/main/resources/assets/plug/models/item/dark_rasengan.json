@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/energy/dark_rasengan"
+                 },
+    "parent":  "minecraft:item/generated"
+}

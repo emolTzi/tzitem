@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/materials/jungle_ingot"
+                 },
+    "parent":  "minecraft:item/generated"
+}

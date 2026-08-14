@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/the_necromancer"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

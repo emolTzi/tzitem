@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/bastion_ring"
+                 },
+    "parent":  "minecraft:item/generated"
+}

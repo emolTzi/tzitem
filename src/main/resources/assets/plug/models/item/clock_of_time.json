@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/clock_of_time"
+                 },
+    "parent":  "minecraft:item/generated"
+}

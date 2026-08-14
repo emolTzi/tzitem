@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/pills/pills_godly"
+                 },
+    "parent":  "minecraft:item/generated"
+}

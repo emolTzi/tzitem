@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/cards/hearts_four"
+                 },
+    "parent":  "minecraft:item/generated"
+}

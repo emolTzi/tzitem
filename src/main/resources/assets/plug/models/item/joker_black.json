@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/cards/joker_black"
+                 },
+    "parent":  "minecraft:item/generated"
+}

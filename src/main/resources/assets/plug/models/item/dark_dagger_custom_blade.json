@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/parts/dark_dagger_custom_blade"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/sinbar_sword_2"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/coins/coins_other2_copper"
+                 },
+    "parent":  "minecraft:item/generated"
+}

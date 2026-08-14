@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/rune_key"
+                 },
+    "parent":  "minecraft:item/generated"
+}

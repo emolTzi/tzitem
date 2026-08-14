@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/material_pouch"
+                 },
+    "parent":  "minecraft:item/generated"
+}

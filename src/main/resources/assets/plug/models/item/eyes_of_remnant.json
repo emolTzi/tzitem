@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/eyes_of_remnant"
+                 },
+    "parent":  "minecraft:item/generated"
+}

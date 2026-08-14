@@ -17,6 +17,7 @@ public class PluginMod {
         // Populate the deferred-registry entries before wiring the bus.
         ModBlocks.register();
         ModItems.registerBlockItems();
+        ModItems.register();
         ModCreativeTabs.init();
 
         ModRegistries.BLOCKS.register(modEventBus);

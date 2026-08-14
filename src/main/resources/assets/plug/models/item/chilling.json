@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/chilling"
+                 },
+    "parent":  "minecraft:item/generated"
+}

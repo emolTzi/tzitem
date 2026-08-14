@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/enders_hand"
+                 },
+    "parent":  "minecraft:item/generated"
+}

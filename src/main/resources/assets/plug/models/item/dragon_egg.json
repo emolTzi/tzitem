@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/dragon_egg"
+                 },
+    "parent":  "minecraft:item/generated"
+}

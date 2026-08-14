@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/magma_bucket"
+                 },
+    "parent":  "minecraft:item/generated"
+}

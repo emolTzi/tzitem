@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/balls/balls_seven"
+                 },
+    "parent":  "minecraft:item/generated"
+}

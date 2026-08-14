@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/adaptors_spear_energized"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/anti_shuriken"
+                 },
+    "parent":  "minecraft:item/generated"
+}

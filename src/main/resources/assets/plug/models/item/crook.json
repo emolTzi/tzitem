@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/crook"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

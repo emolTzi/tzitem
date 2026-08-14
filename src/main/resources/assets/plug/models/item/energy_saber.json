@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/energy_saber"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

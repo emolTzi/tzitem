@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/spore_sack"
+                 },
+    "parent":  "minecraft:item/generated"
+}

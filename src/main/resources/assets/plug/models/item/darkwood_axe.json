@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/darkwood_axe"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/apples/alert_apple"
+                 },
+    "parent":  "minecraft:item/generated"
+}

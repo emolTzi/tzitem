@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/materials/codium_ingot"
+                 },
+    "parent":  "minecraft:item/generated"
+}

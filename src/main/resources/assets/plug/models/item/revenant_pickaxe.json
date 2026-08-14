@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/revenant_pickaxe"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

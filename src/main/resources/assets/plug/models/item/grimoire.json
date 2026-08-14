@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/grimoire"
+                 },
+    "parent":  "minecraft:item/generated"
+}

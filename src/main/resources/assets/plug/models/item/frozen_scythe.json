@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/frozen_scythe"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

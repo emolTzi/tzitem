@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/ring_of_power"
+                 },
+    "parent":  "minecraft:item/generated"
+}

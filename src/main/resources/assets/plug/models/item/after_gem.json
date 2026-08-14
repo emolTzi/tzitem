@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/after_gem"
+                 },
+    "parent":  "minecraft:item/generated"
+}

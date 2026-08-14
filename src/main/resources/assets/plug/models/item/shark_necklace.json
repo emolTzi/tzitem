@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/shark_necklace"
+                 },
+    "parent":  "minecraft:item/generated"
+}

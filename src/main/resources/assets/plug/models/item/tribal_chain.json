@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/tribal_chain"
+                 },
+    "parent":  "minecraft:item/generated"
+}

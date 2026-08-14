@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/trinity_wand"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

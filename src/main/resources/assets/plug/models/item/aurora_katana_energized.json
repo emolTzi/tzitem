@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/weapons/aurora_katana_energized"
+                 },
+    "parent":  "minecraft:item/handheld"
+}

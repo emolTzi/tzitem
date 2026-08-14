@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/wood_singularity"
+                 },
+    "parent":  "minecraft:item/generated"
+}

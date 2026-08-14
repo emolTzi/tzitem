@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/artifacts/dimensional_eye"
+                 },
+    "parent":  "minecraft:item/generated"
+}

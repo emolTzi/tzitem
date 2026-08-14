@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "plug:item/cards/cards_daybreak"
+                 },
+    "parent":  "minecraft:item/generated"
+}
