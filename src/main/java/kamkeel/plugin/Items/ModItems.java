@@ -78,6 +78,13 @@ public final class ModItems {
         return it;
     }
 
+    private static DeferredItem<Item> throwable(String name, Tier tier) {
+        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new ThrowableWeaponItem(tier, new Item.Properties()));
+        ALL.add(it);
+        WEAPONS.add(it);
+        return it;
+    }
+
     /** Resolve a registered item by its registry-name path. */
     public static DeferredItem<Item> find(String name) {
         for (DeferredItem<Item> it : ALL) {
@@ -519,7 +526,6 @@ public final class ModItems {
         simple("cards_awen", CARDS);
         simple("cards_radiance", CARDS);
         // ---- Weapons: energy attacks ----
-        simple("voidrasenshuriken", WEAPONS);
         simple("massiverasengan", WEAPONS);
         simple("massiverasengan_spin", WEAPONS);
         simple("dark_rasengan", WEAPONS);
@@ -562,8 +568,6 @@ public final class ModItems {
         weapon("codium_longsword_energized", WEAPON_TIER, WEAPONS);
         weapon("glass_blade", GLASS_TIER, WEAPONS);
         weapon("glass_cutlass", GLASS_TIER, WEAPONS);
-        weapon("glass_kunai", GLASS_TIER, WEAPONS);
-        weapon("reverse_glass_kunai", GLASS_TIER, WEAPONS);
         weapon("glass_dagger", GLASS_TIER, WEAPONS);
         weapon("reverse_glass_dagger", GLASS_TIER, WEAPONS);
         weapon("crystal_spear", GLASS_TIER, WEAPONS);
@@ -947,6 +951,10 @@ public final class ModItems {
         weapon("uruk_shield", WEAPON_TIER, WEAPONS);
         weapon("void_shield", WEAPON_TIER, WEAPONS);
         weapon("wood_shield", WEAPON_TIER, WEAPONS);
+        // ---- Weapons: throwable (kunai + rasenshuriken) ----
+        throwable("voidrasenshuriken", WEAPON_TIER);
+        throwable("glass_kunai", GLASS_TIER);
+        throwable("reverse_glass_kunai", GLASS_TIER);
         // ---- Weapons: bows ----
         bow("dark_metal_bow");
         bow("death_bow");

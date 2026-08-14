@@ -18,6 +18,7 @@ public class PluginMod {
         ModBlocks.register();
         ModItems.registerBlockItems();
         ModItems.register();
+        ModEntities.init();
         ModCreativeTabs.init();
 
         ModRegistries.BLOCKS.register(modEventBus);

@@ -109,6 +109,13 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('        return it;')
 [void]$sb.AppendLine('    }')
 [void]$sb.AppendLine('')
+[void]$sb.AppendLine('    private static DeferredItem<Item> throwable(String name, Tier tier) {')
+[void]$sb.AppendLine('        DeferredItem<Item> it = ModRegistries.ITEMS.register(name, () -> new ThrowableWeaponItem(tier, new Item.Properties()));')
+[void]$sb.AppendLine('        ALL.add(it);')
+[void]$sb.AppendLine('        WEAPONS.add(it);')
+[void]$sb.AppendLine('        return it;')
+[void]$sb.AppendLine('    }')
+[void]$sb.AppendLine('')
 [void]$sb.AppendLine('    /** Resolve a registered item by its registry-name path. */')
 [void]$sb.AppendLine('    public static DeferredItem<Item> find(String name) {')
 [void]$sb.AppendLine('        for (DeferredItem<Item> it : ALL) {')
@@ -159,15 +166,23 @@ Emit $null { $_.tex -like 'artifacts/*' } 'simple' 'MISC'
 [void]$sb.AppendLine('        // ---- Cards ----')
 Emit $null { $_.tab -eq 'cards' } 'simple' 'CARDS'
 [void]$sb.AppendLine('        // ---- Weapons: energy attacks ----')
-Emit $null { $_.tab -eq 'weapons' -and $_.tex -like 'energy/*' } 'simple' 'WEAPONS'
+foreach ($it in $items | Where-Object { $_.tab -eq 'weapons' -and $_.tex -like 'energy/*' }) {
+    if ($it.name -eq 'voidrasenshuriken') { continue }
+    [void]$sb.AppendLine("        simple(`"$($it.name)`", WEAPONS);")
+}
 [void]$sb.AppendLine('        // ---- Weapons ----')
 $glassList = @('glass_blade','glass_cutlass','glass_kunai','reverse_glass_kunai','glass_dagger','reverse_glass_dagger','crystal_spear')
 foreach ($it in $items | Where-Object { $_.tab -eq 'weapons' -and $_.kind -eq 'weapon' }) {
+    if ($it.name -in @('glass_kunai','reverse_glass_kunai')) { continue }
     if ($it.name -match 'broken') { $tier = 'BROKEN_TIER' }
     elseif ($glassList -contains $it.name) { $tier = 'GLASS_TIER' }
     else { $tier = 'WEAPON_TIER' }
     [void]$sb.AppendLine("        weapon(`"$($it.name)`", $tier, WEAPONS);")
 }
+[void]$sb.AppendLine('        // ---- Weapons: throwable (kunai + rasenshuriken) ----')
+[void]$sb.AppendLine('        throwable("voidrasenshuriken", WEAPON_TIER);')
+[void]$sb.AppendLine('        throwable("glass_kunai", GLASS_TIER);')
+[void]$sb.AppendLine('        throwable("reverse_glass_kunai", GLASS_TIER);')
 [void]$sb.AppendLine('        // ---- Weapons: bows ----')
 foreach ($it in $items | Where-Object { $_.kind -eq 'bow' }) {
     [void]$sb.AppendLine("        bow(`"$($it.name)`");")

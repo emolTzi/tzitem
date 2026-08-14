@@ -1,6 +1,8 @@
 package kamkeel.plugin;
 
+import kamkeel.plugin.Client.RenderProjectile;
 import kamkeel.plugin.Items.ModItems;
+import net.minecraft.client.renderer.entity.EntityRenderers;
 import net.minecraft.client.renderer.item.ItemProperties;
 import net.minecraft.resources.ResourceLocation;
 import net.neoforged.api.distmarker.Dist;
@@ -19,6 +21,7 @@ public final class ClientSetup {
 
     @SubscribeEvent
     public static void onClientSetup(FMLClientSetupEvent event) {
+        EntityRenderers.register(ModEntities.THROWABLE_ITEM.get(), RenderProjectile::new);
         for (var holder : ModItems.BOWS) {
             var bow = holder.get();
             ItemProperties.register(bow, ResourceLocation.withDefaultNamespace("pulling"),
